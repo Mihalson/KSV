@@ -1,0 +1,1268 @@
+{
+    "příjmy vězňených osob": [
+        {
+            "mesic": "leden",
+            "obvinění": 300,
+            "odsouzení": 681,
+            "chovanci": 1,
+            "Celkem": 982,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 335,
+            "odsouzení": 556,
+            "chovanci": 1,
+            "Celkem": 892,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 345,
+            "odsouzení": 535,
+            "chovanci": 1,
+            "Celkem": 881,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 341,
+            "odsouzení": 530,
+            "chovanci": 2,
+            "Celkem": 873,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 315,
+            "odsouzení": 556,
+            "chovanci": 2,
+            "Celkem": 873,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 303,
+            "odsouzení": 556,
+            "chovanci": 2,
+            "Celkem": 861,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 282,
+            "odsouzení": 554,
+            "chovanci": 2,
+            "Celkem": 838,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 294,
+            "odsouzení": 508,
+            "chovanci": 2,
+            "Celkem": 804,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "obvinění": 278,
+            "odsouzení": 560,
+            "chovanci": 1,
+            "Celkem": 839,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 327,
+            "odsouzení": 498,
+            "chovanci": 1,
+            "Celkem": 826,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 372,
+            "odsouzení": 509,
+            "chovanci": 1,
+            "Celkem": 882,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 264,
+            "odsouzení": 410,
+            "chovanci": 1,
+            "Celkem": 675,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 265,
+            "odsouzení": 701,
+            "chovanci": 0,
+            "Celkem": 966,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 298,
+            "odsouzení": 604,
+            "chovanci": 0,
+            "Celkem": 902,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 323,
+            "odsouzení": 616,
+            "chovanci": 0,
+            "Celkem": 939,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 348,
+            "odsouzení": 514,
+            "chovanci": 0,
+            "Celkem": 862,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 341,
+            "odsouzení": 599,
+            "chovanci": 0,
+            "Celkem": 940,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 337,
+            "odsouzení": 593,
+            "chovanci": 0,
+            "Celkem": 930,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 267,
+            "odsouzení": 468,
+            "chovanci": 0,
+            "Celkem": 735,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 315,
+            "odsouzení": 527,
+            "chovanci": 0,
+            "Celkem": 842,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "obvinění": 338,
+            "odsouzení": 510,
+            "chovanci": 0,
+            "Celkem": 848,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 316,
+            "odsouzení": 547,
+            "chovanci": 0,
+            "Celkem": 863,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 326,
+            "odsouzení": 547,
+            "chovanci": 3,
+            "Celkem": 876,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 248,
+            "odsouzení": 439,
+            "chovanci": 2,
+            "Celkem": 689,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 367,
+            "odsouzení": 718,
+            "chovanci": 0,
+            "Celkem": 1085,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 370,
+            "odsouzení": 611,
+            "chovanci": 0,
+            "Celkem": 981,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 344,
+            "odsouzení": 678,
+            "chovanci": 0,
+            "Celkem": 1022,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 351,
+            "odsouzení": 622,
+            "chovanci": 0,
+            "Celkem": 973,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 296,
+            "odsouzení": 592,
+            "chovanci": 0,
+            "Celkem": 888,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 309,
+            "odsouzení": 549,
+            "chovanci": 2,
+            "Celkem": 860,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 299,
+            "odsouzení": 552,
+            "chovanci": 2,
+            "Celkem": 853,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 346,
+            "odsouzení": 519,
+            "chovanci": 3,
+            "Celkem": 868,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "obvinění": 394,
+            "odsouzení": 499,
+            "chovanci": 1,
+            "Celkem": 894,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 354,
+            "odsouzení": 523,
+            "chovanci": 1,
+            "Celkem": 878,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 283,
+            "odsouzení": 548,
+            "chovanci": 1,
+            "Celkem": 832,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 283,
+            "odsouzení": 427,
+            "chovanci": 1,
+            "Celkem": 711,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 325,
+            "odsouzení": 488,
+            "chovanci": 0,
+            "Celkem": 813,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 293,
+            "odsouzení": 501,
+            "chovanci": 0,
+            "Celkem": 794,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 263,
+            "odsouzení": 505,
+            "chovanci": 0,
+            "Celkem": 768,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 259,
+            "odsouzení": 510,
+            "chovanci": 0,
+            "Celkem": 769,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 283,
+            "odsouzení": 558,
+            "chovanci": 0,
+            "Celkem": 841,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 321,
+            "odsouzení": 502,
+            "chovanci": 0,
+            "Celkem": 823,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 271,
+            "odsouzení": 499,
+            "chovanci": 0,
+            "Celkem": 770,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 286,
+            "odsouzení": 511,
+            "chovanci": 0,
+            "Celkem": 797,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "obvinění": 310,
+            "odsouzení": 503,
+            "chovanci": 0,
+            "Celkem": 813,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 301,
+            "odsouzení": 477,
+            "chovanci": 0,
+            "Celkem": 778,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 347,
+            "odsouzení": 537,
+            "chovanci": 0,
+            "Celkem": 884,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 282,
+            "odsouzení": 435,
+            "chovanci": 0,
+            "Celkem": 717,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 363,
+            "odsouzení": 627,
+            "chovanci": 0,
+            "Celkem": 990,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 355,
+            "odsouzení": 594,
+            "chovanci": 0,
+            "Celkem": 949,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 295,
+            "odsouzení": 436,
+            "chovanci": 0,
+            "Celkem": 731,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 303,
+            "odsouzení": 289,
+            "chovanci": 0,
+            "Celkem": 592,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 325,
+            "odsouzení": 238,
+            "chovanci": 0,
+            "Celkem": 563,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 332,
+            "odsouzení": 550,
+            "chovanci": 0,
+            "Celkem": 882,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 320,
+            "odsouzení": 546,
+            "chovanci": 0,
+            "Celkem": 866,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 313,
+            "odsouzení": 468,
+            "chovanci": 0,
+            "Celkem": 781,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "obvinění": 279,
+            "odsouzení": 467,
+            "chovanci": 0,
+            "Celkem": 746,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 345,
+            "odsouzení": 478,
+            "chovanci": 0,
+            "Celkem": 823,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 295,
+            "odsouzení": 399,
+            "chovanci": 0,
+            "Celkem": 694,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 293,
+            "odsouzení": 339,
+            "chovanci": 0,
+            "Celkem": 632,
+            "rok": 2020
+        }
+    ],
+    "propuštěné osoby": [
+        {
+            "mesic": "leden",
+            "obvinění": 95,
+            "odsouzení": 532,
+            "chovanci": 3,
+            "Celkem": 630,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 83,
+            "odsouzení": 520,
+            "chovanci": 0,
+            "Celkem": 603,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 96,
+            "odsouzení": 532,
+            "chovanci": 1,
+            "Celkem": 629,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 95,
+            "odsouzení": 535,
+            "chovanci": 0,
+            "Celkem": 630,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 98,
+            "odsouzení": 554,
+            "chovanci": 1,
+            "Celkem": 653,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 96,
+            "odsouzení": 590,
+            "chovanci": 0,
+            "Celkem": 686,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 91,
+            "odsouzení": 551,
+            "chovanci": 1,
+            "Celkem": 643,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 88,
+            "odsouzení": 512,
+            "chovanci": 0,
+            "Celkem": 600,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "obvinění": 80,
+            "odsouzení": 556,
+            "chovanci": 1,
+            "Celkem": 637,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 69,
+            "odsouzení": 529,
+            "chovanci": 3,
+            "Celkem": 601,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 88,
+            "odsouzení": 528,
+            "chovanci": 1,
+            "Celkem": 617,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 95,
+            "odsouzení": 542,
+            "chovanci": 0,
+            "Celkem": 637,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 88,
+            "odsouzení": 503,
+            "chovanci": 0,
+            "Celkem": 591,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 81,
+            "odsouzení": 513,
+            "chovanci": 0,
+            "Celkem": 594,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 106,
+            "odsouzení": 501,
+            "chovanci": 2,
+            "Celkem": 609,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 96,
+            "odsouzení": 504,
+            "chovanci": 1,
+            "Celkem": 601,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 106,
+            "odsouzení": 523,
+            "chovanci": 1,
+            "Celkem": 630,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 108,
+            "odsouzení": 530,
+            "chovanci": 1,
+            "Celkem": 639,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 73,
+            "odsouzení": 530,
+            "chovanci": 0,
+            "Celkem": 603,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 99,
+            "odsouzení": 538,
+            "chovanci": 0,
+            "Celkem": 637,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "obvinění": 87,
+            "odsouzení": 498,
+            "chovanci": 0,
+            "Celkem": 585,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 77,
+            "odsouzení": 490,
+            "chovanci": 3,
+            "Celkem": 570,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 78,
+            "odsouzení": 529,
+            "chovanci": 2,
+            "Celkem": 609,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 94,
+            "odsouzení": 518,
+            "chovanci": 0,
+            "Celkem": 612,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 90,
+            "odsouzení": 501,
+            "chovanci": 0,
+            "Celkem": 591,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 87,
+            "odsouzení": 513,
+            "chovanci": 0,
+            "Celkem": 600,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 83,
+            "odsouzení": 527,
+            "chovanci": 1,
+            "Celkem": 611,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 93,
+            "odsouzení": 573,
+            "chovanci": 1,
+            "Celkem": 667,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 89,
+            "odsouzení": 543,
+            "chovanci": 1,
+            "Celkem": 633,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 104,
+            "odsouzení": 525,
+            "chovanci": 1,
+            "Celkem": 630,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 61,
+            "odsouzení": 524,
+            "chovanci": 1,
+            "Celkem": 586,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 100,
+            "odsouzení": 518,
+            "chovanci": 1,
+            "Celkem": 619,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "obvinění": 70,
+            "odsouzení": 543,
+            "chovanci": 1,
+            "Celkem": 614,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 94,
+            "odsouzení": 553,
+            "chovanci": 0,
+            "Celkem": 647,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 78,
+            "odsouzení": 534,
+            "chovanci": 0,
+            "Celkem": 612,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 82,
+            "odsouzení": 499,
+            "chovanci": 2,
+            "Celkem": 583,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 86,
+            "odsouzení": 485,
+            "chovanci": 0,
+            "Celkem": 571,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 85,
+            "odsouzení": 536,
+            "chovanci": 0,
+            "Celkem": 621,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 142,
+            "odsouzení": 522,
+            "chovanci": 0,
+            "Celkem": 664,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 102,
+            "odsouzení": 509,
+            "chovanci": 0,
+            "Celkem": 611,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 81,
+            "odsouzení": 514,
+            "chovanci": 2,
+            "Celkem": 597,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 105,
+            "odsouzení": 508,
+            "chovanci": 1,
+            "Celkem": 614,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 113,
+            "odsouzení": 463,
+            "chovanci": 2,
+            "Celkem": 578,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 98,
+            "odsouzení": 530,
+            "chovanci": 0,
+            "Celkem": 628,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "obvinění": 73,
+            "odsouzení": 497,
+            "chovanci": 1,
+            "Celkem": 571,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 80,
+            "odsouzení": 503,
+            "chovanci": 0,
+            "Celkem": 583,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 79,
+            "odsouzení": 503,
+            "chovanci": 0,
+            "Celkem": 582,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 99,
+            "odsouzení": 483,
+            "chovanci": 0,
+            "Celkem": 582,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "obvinění": 119,
+            "odsouzení": 543,
+            "chovanci": 1,
+            "Celkem": 663,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "obvinění": 137,
+            "odsouzení": 538,
+            "chovanci": 0,
+            "Celkem": 675,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "obvinění": 116,
+            "odsouzení": 532,
+            "chovanci": 0,
+            "Celkem": 648,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "obvinění": 97,
+            "odsouzení": 578,
+            "chovanci": 1,
+            "Celkem": 676,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "obvinění": 116,
+            "odsouzení": 563,
+            "chovanci": 0,
+            "Celkem": 679,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "obvinění": 112,
+            "odsouzení": 522,
+            "chovanci": 1,
+            "Celkem": 635,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "obvinění": 124,
+            "odsouzení": 567,
+            "chovanci": 1,
+            "Celkem": 692,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "obvinění": 102,
+            "odsouzení": 566,
+            "chovanci": 0,
+            "Celkem": 668,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "obvinění": 105,
+            "odsouzení": 544,
+            "chovanci": 1,
+            "Celkem": 650,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "obvinění": 104,
+            "odsouzení": 512,
+            "chovanci": 0,
+            "Celkem": 616,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "obvinění": 102,
+            "odsouzení": 528,
+            "chovanci": 0,
+            "Celkem": 630,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "obvinění": 119,
+            "odsouzení": 476,
+            "chovanci": 0,
+            "Celkem": 595,
+            "rok": 2020
+        }
+    ],
+    "podmíněné propuštěné osoby": [
+        {
+            "mesic": "leden",
+            "Celkem odsouzení": 230,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "Celkem odsouzení": 210,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "Celkem odsouzení": 215,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "Celkem odsouzení": 223,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "Celkem odsouzení": 244,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "Celkem odsouzení": 214,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "Celkem odsouzení": 274,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "Celkem odsouzení": 191,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "Celkem odsouzení": 251,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "Celkem odsouzení": 265,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "Celkem odsouzení": 262,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "Celkem odsouzení": 219,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "Celkem odsouzení": 239,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "Celkem odsouzení": 181,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "Celkem odsouzení": 239,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "Celkem odsouzení": 202,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "Celkem odsouzení": 251,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "Celkem odsouzení": 293,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "Celkem odsouzení": 208,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "Celkem odsouzení": 259,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "Celkem odsouzení": 241,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "Celkem odsouzení": 242,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "Celkem odsouzení": 280,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "Celkem odsouzení": 238,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "Celkem odsouzení": 237,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "Celkem odsouzení": 188,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "Celkem odsouzení": 241,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "Celkem odsouzení": 203,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "Celkem odsouzení": 279,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "Celkem odsouzení": 264,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "Celkem odsouzení": 226,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "Celkem odsouzení": 283,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "Celkem odsouzení": 196,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "Celkem odsouzení": 249,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "Celkem odsouzení": 263,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "Celkem odsouzení": 189,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "Celkem odsouzení": 237,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "Celkem odsouzení": 230,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "Celkem odsouzení": 273,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "Celkem odsouzení": 246,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "Celkem odsouzení": 256,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "Celkem odsouzení": 260,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "Celkem odsouzení": 235,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "Celkem odsouzení": 241,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "Celkem odsouzení": 249,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "Celkem odsouzení": 228,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "Celkem odsouzení": 282,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "Celkem odsouzení": 251,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "Celkem odsouzení": 250,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "Celkem odsouzení": 235,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "Celkem odsouzení": 199,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "Celkem odsouzení": 212,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "Celkem odsouzení": 339,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "Celkem odsouzení": 370,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "Celkem odsouzení": 256,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "Celkem odsouzení": 257,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "Celkem odsouzení": 237,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "Celkem odsouzení": 301,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "Celkem odsouzení": 290,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "Celkem odsouzení": 309,
+            "rok": 2020
+        }
+    ]
+}

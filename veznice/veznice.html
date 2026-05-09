@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vězeňská služba ČR - Mapa a Statistiky</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="stylevez.css">
+</head>
+<body>
+
+    <nav class="top-nav">
+        <a href="veznice.html" class="active">Přehled věznic</a>
+        <a href="../soudy/soudy.html">Přehled soudů</a>
+        <a href="../pcr/pcr.html">Mapa Kriminality</a>
+        <a href="../projekt/dip_web.pdf" target="_blank">Diplomová práce</a>
+        <a href="../projekt/broz_web.pdf" target="_blank">Brožura</a>
+        <a href="../projekt/projekt.html">O projektu</a>
+    </nav>
+<div id="legend" class="map-overlay"></div>
+    <div id="map"></div>
+    <div id="legend" class="map-overlay"></div>
+
+    <div id="sidebarLeft" class="sidebar-left-collapsed">
+        <div class="sidebar-content">
+            <div class="sidebar-header">
+                <h2>Statistiky Vězňů</h2>
+                
+                <div class="search-container" style="margin-top: 20px;">
+                    <label>Hledat věznici nebo adresu</label>
+                    <input type="text" id="mapSearchInput" class="modern-input" placeholder="Např. Pankrác, Plzeň..." autocomplete="off">
+                    <div id="mapSearchResults" class="autocomplete-list"></div>
+                </div>
+
+                <div class="filter-section" style="display: flex; gap: 10px; margin-top: 15px;">
+                    <select id="datasetFilter" class="modern-select">
+                        <option value="cizinci">Cizinci</option>
+                        <option value="dozivoti">Doživotí</option>
+                        <option value="obvineni">Obvinění</option>
+                        <option value="odsouzeni">Odsouzení</option>
+                        <option value="chovanci">Chovanci</option>
+                        <option value="osoby">Osoby</option>
+                    </select>
+                    <select id="yearFilterPrisoners" class="modern-select">
+                        <option value="2024">Rok 2024</option>
+                        <option value="2023">Rok 2023</option>
+                        <option value="2022">Rok 2022</option>
+                        <option value="2021">Rok 2021</option>
+                        <option value="2020">Rok 2020</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="prisonersDashboard"></div>
+
+            <div class="comparison-container stat-card" style="margin-top: 20px;">
+                <h3>Porovnání vývoje</h3>
+                <div class="filter-section">
+                    <label>Vyberte roky k porovnání:</label>
+                    <div id="yearCheckboxes" class="checkbox-grid" style="grid-template-columns: repeat(3, 1fr);">
+                        <label class="checkbox-item"><input type="checkbox" value="2020"> 2020</label>
+                        <label class="checkbox-item"><input type="checkbox" value="2021"> 2021</label>
+                        <label class="checkbox-item"><input type="checkbox" value="2022"> 2022</label>
+                        <label class="checkbox-item"><input type="checkbox" value="2023" checked> 2023</label>
+                        <label class="checkbox-item"><input type="checkbox" value="2024" checked> 2024</label>
+                    </div>
+                </div>
+                <div class="filter-section">
+                    <label>Kategorie dat:</label>
+                    <select id="categorySelect" class="modern-select" onchange="updateMetricSelect()"></select>
+                </div>
+                <div class="filter-section">
+                    <label>Sledovaná hodnota:</label>
+                    <select id="metricSelect" class="modern-select"></select>
+                </div>
+                
+                <button onclick="compareYears()" class="btn-primary" style="margin-top: 10px;">POROVNAT VYBRANÉ</button>
+                
+                <div class="chart-container" style="height: 250px; margin-top: 15px;">
+                    <canvas id="comparisonChart"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <div class="sidebar-handle-left" id="handleLeft">DATA VĚZŇŮ</div>
+    </div>
+
+    <div id="sidebar" class="sidebar-right-collapsed">
+        <div id="sidebarHandle" class="sidebar-handle-right">ZAMĚSTNANCI</div>
+        
+        <div class="sidebar-content">
+            <div class="sidebar-header">
+                <h2>Statistiky zaměstnanců</h2>
+                <div class="filter-section" style="margin-top: 15px;">
+                    <label for="yearFilterStaff">Zvolit rok:</label>
+                    <select id="yearFilterStaff" class="modern-select">
+                        <option value="2024">2024</option>
+                        <option value="2023">2023</option>
+                        <option value="2022">2022</option>
+                        <option value="2021">2021</option>
+                        <option value="2020">2020</option>
+                    </select>
+                </div>
+            </div>
+            <div id="statsDashboard" class="stats-dashboard"></div>
+        </div>
+    </div>
+
+    <div id="grafModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            
+            <div id="modalLayout" class="modal-grid">
+                <div class="prison-info-panel">
+                    <div id="prisonInfoContent"></div>
+                    <div id="prisonerTablesContainer" style="margin-top: 20px;"></div>
+                </div>
+                
+                <div class="stats-panel">
+                    <div class="comparison-header">
+                        <div class="filter-section" style="margin-bottom: 0;">
+                            <label>Srovnat s:</label>
+                            <select id="selectSrovnani" class="modern-select"><option value="">-- vybrat věznici --</option></select>
+                        </div>
+                        <div class="filter-section" style="margin-bottom: 0;">
+                            <label>Období:</label>
+                            <div style="display: flex; gap: 10px;">
+                                <select id="rok" class="modern-select"></select>
+                                <select id="mesic" class="modern-select"></select>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="chartContainer" class="gauge-container-main" style="padding: 20px; height: 100%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    
+    <script src="scriptvez.js"></script>
+    <script src="scriptvez_zam.js"></script>
+    <script src="scriptvez_vezni.js"></script>
+    
+    <script>
+        document.getElementById('handleLeft').addEventListener('click', function() {
+            const sidebarLeft = document.getElementById('sidebarLeft');
+            sidebarLeft.classList.toggle('sidebar-left-open');
+            sidebarLeft.classList.toggle('sidebar-left-collapsed');
+        });
+
+        document.getElementById('sidebarHandle').addEventListener('click', function() {
+            const sidebarRight = document.getElementById('sidebar');
+            sidebarRight.classList.toggle('sidebar-right-open');
+            sidebarRight.classList.toggle('sidebar-right-collapsed');
+        });
+
+        document.getElementById('closeModal').addEventListener('click', function() {
+            document.getElementById('grafModal').style.display = 'none';
+        });
+    </script>
+</body>
+</html>

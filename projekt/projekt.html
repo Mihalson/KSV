@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O projektu - Justice a Bezpečnost ČR</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styleproj.css">
+</head>
+
+<body>
+
+    <nav class="top-nav">
+        <a href="../veznice/veznice.html">Přehled věznic</a>
+        <a href="../soudy/soudy.html">Přehled soudů</a>
+        <a href="../pcr/pcr.html">Mapa Kriminality</a>
+        <a href="dip_web.pdf" target="_blank">Diplomová práce</a>
+        <a href="broz_web.pdf" target="_blank">Brožura</a>
+        <a href="projekt.html" class="active">O projektu</a>
+    </nav>
+
+    <div class="content-wrapper">
+        <header class="project-header">
+            <h1>O projektu</h1>
+            <p>Interaktivní vizualizace dat z oblasti justice, vězeňství a bezpečnosti v ČR.</p>
+        </header>
+
+        <section class="project-summary">
+            <h2>Shrnutí projektu</h2>
+            <p>
+                Cílem tohoto projektu je poskytnout odborníkům i veřejnosti přehledný a 
+                interaktivní nástroj pro zkoumání dat souvisejících s bezpečností a justicí. 
+                Spojujeme geografická data s otevřenými daty ministerstev a Policie ČR.
+            </p>
+        </section>
+
+        <section class="documents-section">
+            <h2>Dokumenty ke stažení</h2>
+            <div class="cards-grid documents-grid">
+                
+                <a href="dip_web.pdf" target="_blank" class="output-card doc-card">
+                    <div class="card-icon">🎓</div>
+                    <div>
+                        <h3>Diplomová práce</h3>
+                        <p>Kompletní text práce s teoretickými východisky a metodologií (PDF).</p>
+                    </div>
+                </a>
+
+                <a href="broz_web.pdf" target="_blank" class="output-card doc-card">
+                    <div class="card-icon">📘</div>
+                    <div>
+                        <h3>Informační brožura</h3>
+                        <p>Stručné shrnutí těch nejdůležitějších poznatků a dat (PDF).</p>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+
+        <section id="vystupy" class="outputs-section">
+            <h2>Interaktivní výstupy</h2>
+            <div class="cards-grid">
+                
+                <a href="../veznice/veznice.html" class="output-card">
+                    <div class="card-icon">🏢</div>
+                    <h3>Přehled věznic</h3>
+                    <p>Interaktivní mapa a datový přehled věznic v ČR. Kapacity a statistiky.</p>
+                </a>
+
+                <a href="../soudy/soudy.html" class="output-card">
+                    <div class="card-icon">⚖️</div>
+                    <h3>Přehled soudů</h3>
+                    <p>Zátěž a efektivita justice. Rozdělení obvodů a clearance rate.</p>
+                </a>
+
+                <a href="../pcr/pcr.html" class="output-card">
+                    <div class="card-icon">🚓</div>
+                    <h3>Mapa Kriminality</h3>
+                    <p>Heatmapy a shlukové mapy trestných činů s možností pokročilé filtrace.</p>
+                </a>
+
+            </div>
+        </section>
+
+        <section id="zdroje" class="sources-section" style="margin-top: 40px; padding-top: 30px; border-top: 2px dashed #e2e8f0;">
+            <h2>Zdroje dat a technologie</h2>
+            <p style="color: #64748b; margin-bottom: 25px; line-height: 1.6;">
+                Tento projekt vznikl díky publikování otevřených dat (Open Data) státními institucemi a s využitím moderních open-source webových nástrojů.
+            </p>
+            
+            <div class="cards-grid">
+                <a href="https://data.justice.cz/" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">⚖️ Ministerstvo spravedlnosti</h3>
+                    <p style="font-size: 13px;">Otevřená data o výkonnosti a vytížení soudů (Clearance rate, délka řízení) z let 2020-2024.</p>
+                </a>
+                
+                <a href="https://kriminalita.policie.cz/" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">🚓 Policie ČR</h3>
+                    <p style="font-size: 13px;">Geolokační data evidovaných trestných činů a přestupků za roky 2020-2025.</p>
+                </a>
+
+                <a href="https://www.vscr.cz/" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">🏢 Vězeňská služba ČR</h3>
+                    <p style="font-size: 13px;">Data o naplněnosti věznic, personálním obsazení a struktuře vězňů z let 2020-2024.</p>
+                </a>
+
+                <a href="https://www.czso.cz/" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">📊 Český statistický úřad</h3>
+                    <p style="font-size: 13px;">Demografická data, geometrie územních celků a populační mřížky.</p>
+                </a>
+
+                <a href="https://www.arcdata.cz/cs-cz/produkty/data/arccr-4-0" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">🗺️ ArcČR (ARCDATA PRAHA)</h3>
+                    <p style="font-size: 13px;">Digitální vektorová geografická data ČR vytvořená ve spolupráci se ZÚ a ČSÚ.</p>
+                </a>
+                <a href="https://carto.com/basemaps/" target="_blank" class="output-card" style="padding: 20px;">
+                    <h3 style="font-size: 16px; margin-bottom: 5px;">🌍 CartoDB & OSM</h3>
+                    <p style="font-size: 13px;">Podkladové mapové vrstvy (Positron) založené na datech komunity OpenStreetMap.</p>
+                </a>
+            </div>
+            
+            <div style="margin-top: 25px; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #e2e8f0;">
+                <h3 style="margin-top: 0; font-size: 15px; color: #0f172a; text-transform: uppercase;">Vývojářské knihovny a mapové podklady</h3>
+                <p style="margin: 10px 0 0 0; font-size: 13px; color: #475569; line-height: 1.8;">
+                    <strong>Mapy:</strong> <a href="https://www.openstreetmap.org/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">OpenStreetMap</a> & <a href="https://carto.com/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">CartoDB Positron</a><br>
+                    <strong>JavaScript Knihovny:</strong> 
+                    <a href="https://leafletjs.com/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">Leaflet</a> (vykreslování map), 
+                    <a href="https://www.chartjs.org/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">Chart.js</a> (interaktivní grafy), 
+                    <a href="https://github.com/mapbox/supercluster" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">Supercluster</a> (rychlé shlukování bodů) a 
+                    <a href="https://www.papaparse.com/" target="_blank" style="color: #2563eb; text-decoration: none; font-weight: 600;">PapaParse</a> (zpracování CSV).
+                </p>
+            </div>
+
+            <div style="margin-top: 25px; padding: 25px; background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%); border-radius: 12px; border: 1px solid #bfdbfe; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.05);">
+                <h3 style="margin-top: 0; font-size: 14px; color: #1e40af; text-transform: uppercase; letter-spacing: 0.5px;">Bc. Ondřej Mihal</h3>
+                <p style="margin: 12px 0 0 0; font-size: 14px; color: #1e293b; line-height: 1.6;">
+                    Tato aplikace byla vytvořena v rámci diplomové práce: <br>
+                    <strong style="color: #0f172a; font-size: 16px;">Interaktivní webový mapový průvodce kriminalitou a vězeňstvím v Česku</strong><br><br>
+                    Fakulta stavební (FSv) <strong>ČVUT v Praze</strong><br>
+                    Obor: <strong>Geodézie a kartografie</strong><br>
+                    Specializace: <strong>Geomatika</strong><br>
+                    Rok: <strong>2026</strong>
+                </p>
+            </div>
+            
+        </section>
+    </div>
+
+    <script src="scriptproj.js"></script>
+</body>
+</html>

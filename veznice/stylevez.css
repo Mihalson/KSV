@@ -1,0 +1,326 @@
+/* =========================================
+   ZAKLAD A PROMENNE (Benchmark)
+   ========================================= */
+:root {
+    --primary: #2563eb;
+    --bg-main: #f1f5f9;
+    --bg-card: #ffffff;
+    --text-dark: #0f172a;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --shadow-soft: 0 4px 15px rgba(0,0,0,0.05);
+    --shadow-hover: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+*, *::before, *::after, input, select, button, textarea, .leaflet-container { 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Inter', sans-serif !important;
+}
+
+body, html {
+    height: 100%; width: 100%;
+    background: var(--bg-main); color: var(--text-main);
+    overflow: hidden;
+}
+
+/* =========================================
+   MAPA A NAVIGACE
+   ========================================= */
+#map { width: 100%; height: 100vh; z-index: 1; }
+
+.leaflet-left { transition: margin-left 0.3s ease !important; margin-left: 20px !important; }
+body.sidebar-is-open .leaflet-left { margin-left: 440px !important; }
+.leaflet-top { margin-top: 20px !important; }
+
+.top-nav {
+    position: absolute; top: 20px; left: 50%; transform: translateX(-50%);
+    z-index: 5000; background: rgba(255, 255, 255, 0.90); backdrop-filter: blur(10px);
+    padding: 6px 8px; border-radius: 40px; box-shadow: var(--shadow-soft);
+    display: flex; gap: 5px; border: 1px solid rgba(226, 232, 240, 0.8);
+    width: max-content; max-width: 95%;
+}
+
+.top-nav a {
+    text-decoration: none; color: var(--text-muted); font-size: 14px;
+    font-weight: 600; padding: 10px 18px; border-radius: 30px; transition: 0.3s; white-space: nowrap;
+}
+.top-nav a:hover { background: var(--bg-main); color: var(--text-main); }
+.top-nav a.active { background: var(--primary); color: #fff; box-shadow: 0 2px 8px rgba(37, 99, 235, 0.4); }
+
+/* =========================================
+   VYHLEDÁVÁNÍ A FILTRY
+   ========================================= */
+.search-container { position: relative; margin-bottom: 10px; z-index: 100; }
+.search-container label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--text-muted); margin-bottom: 6px; }
+
+.modern-input, .modern-select {
+    width: 100%; padding: 11px 15px; border-radius: 8px; border: 1px solid var(--border);
+    background: #f8fafc; font-size: 13px; color: var(--text-main);
+    font-weight: 600; outline: none; transition: 0.2s;
+}
+.modern-input:focus, .modern-select:focus { border-color: var(--primary); background: #ffffff; box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1); }
+.modern-input::placeholder { color: #94a3b8; font-weight: 400; }
+
+.autocomplete-list {
+    position: absolute; top: 100%; left: 0; right: 0; background: #ffffff;
+    border: 1px solid var(--border); border-radius: 8px; margin-top: 5px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1); max-height: 250px; overflow-y: auto;
+    list-style: none; padding: 0; display: none; margin-bottom: 0; flex-direction: column;
+}
+.search-item {
+    padding: 10px 15px; font-size: 13px; color: var(--text-main); border-bottom: 1px solid #f1f5f9;
+    cursor: pointer; transition: 0.2s; font-weight: 500;
+}
+.search-item:last-child { border-bottom: none; }
+.search-item:hover { background: #eff6ff; color: var(--primary); }
+
+.filter-section label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--text-muted); margin-bottom: 6px; }
+
+/* =========================================
+   LEVY BOCNI PANEL
+   ========================================= */
+#sidebarLeft {
+    position: fixed; top: 0; left: 0; bottom: 0; 
+    width: 420px; background: rgba(255, 255, 255, 0.97); backdrop-filter: blur(10px);
+    box-shadow: 5px 0 25px rgba(29, 78, 216, 0.15); z-index: 4000;
+    transition: transform 0.3s ease; display: flex; flex-direction: column;
+    border-right: 1px solid var(--border);
+}
+.sidebar-left-open { transform: translateX(0); }
+.sidebar-left-collapsed { transform: translateX(-420px); }
+
+.sidebar-content { flex-grow: 1; overflow-y: auto; padding: 80px 25px 25px 25px; }
+
+.sidebar-handle-left {
+    position: absolute; top: 50%; right: -32px; transform: translateY(-50%);
+    width: 32px; height: 100px; background: var(--primary); color: white;
+    display: flex; align-items: center; justify-content: center; cursor: pointer;
+    border-radius: 0 8px 8px 0; writing-mode: vertical-rl; font-weight: 700;
+    font-size: 12px; transition: 0.3s; box-shadow: 4px 0 10px rgba(29, 78, 216, 0.2);
+}
+.sidebar-handle-left:hover { background: var(--text-dark); }
+
+.sidebar-header { border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; }
+.sidebar-header h2 { margin: 0; color: var(--text-dark); font-weight: 800; font-size: 20px; }
+
+.stat-card {
+    background: var(--bg-card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: var(--shadow-soft);
+}
+.stat-card h3 { margin: 0 0 15px 0; font-size: 14px; color: var(--text-muted); text-transform: uppercase; }
+
+/* =========================================
+   PRAVY BOCNI PANEL
+   ========================================= */
+#sidebar {
+    position: absolute; top: 0; bottom: 0; right: 0; width: 420px;
+    background: var(--bg-card); box-shadow: -5px 0 25px rgba(29, 78, 216, 0.15);
+    z-index: 4000; transition: transform 0.3s ease; display: flex;
+    border-left: 1px solid var(--border);
+}
+
+.sidebar-right-open { transform: translateX(0); }
+.sidebar-right-collapsed { transform: translateX(420px); }
+
+.sidebar-handle-right {
+    position: absolute; top: 50%; left: -32px; transform: translateY(-50%) rotate(180deg);
+    width: 32px; height: 100px; background: var(--primary); color: white;
+    display: flex; align-items: center; justify-content: center; cursor: pointer;
+    border-radius: 0 8px 8px 0; box-shadow: 3px 0 10px rgba(29, 78, 216, 0.2);
+    writing-mode: vertical-rl; font-weight: bold; font-size: 11px; transition: 0.2s;
+}
+.sidebar-handle-right:hover { background: var(--text-dark); }
+
+/* =========================================
+   MODALNI OKNO
+   ========================================= */
+.modal {
+    display: none; position: fixed; z-index: 6000; left: 0; top: 0;
+    width: 100%; height: 100%; background: rgba(15, 23, 42, 0.5); backdrop-filter: blur(5px);
+}
+
+.modal-content {
+    background: var(--bg-main); margin: 3vh auto; border-radius: 16px;
+    width: 95%; max-width: 1200px; height: 94vh; box-shadow: 0 25px 50px -12px rgba(29, 78, 216, 0.2);
+    display: flex; flex-direction: column; overflow: hidden;
+}
+
+.comparison-header {
+    background: var(--bg-card); padding: 20px 30px; border-bottom: 1px solid var(--border);
+    display: flex; justify-content: space-between; align-items: center; flex-shrink: 0;
+}
+
+.close {
+    width: 36px; height: 36px; background: var(--bg-main); border-radius: 50%;
+    display: flex; align-items: center; justify-content: center; font-size: 24px;
+    color: var(--text-muted); cursor: pointer; transition: 0.2s;
+}
+.close:hover { color: #ef4444; transform: scale(1.1); }
+
+.modal-grid { display: grid; grid-template-columns: 350px 1fr; flex: 1; overflow: hidden; }
+
+.prison-info-panel {
+    background: var(--bg-card); border-right: 1px solid var(--border);
+    padding: 30px; overflow-y: auto; display: flex; flex-direction: column;
+}
+
+.prison-img { width: 100%; height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 20px; box-shadow: var(--shadow-soft); }
+
+.detail-item { margin-bottom: 15px; display: flex; flex-direction: column; gap: 4px; }
+.detail-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; font-weight: 700; }
+.detail-value { font-weight: 600; color: var(--text-dark); font-size: 14px; }
+
+.specializace-box { background: var(--bg-main); padding: 12px; border: 1px solid var(--border); border-radius: 8px; font-size: 13px; line-height: 1.5; }
+
+.btn-web, .btn-primary {
+    display: flex; justify-content: center; padding: 12px; margin-top: auto;
+    background: var(--primary); color: white; text-decoration: none; border: none;
+    border-radius: 8px; font-weight: 600; font-size: 13px; transition: 0.3s; cursor: pointer; width: 100%;
+}
+.btn-web:hover, .btn-primary:hover { background: var(--text-dark); }
+
+/* Zajištění scrollování pro pravý panel v modálu (grafy) */
+.stats-panel {
+    overflow-y: auto;
+    padding-bottom: 30px;
+}
+
+/* Moderní a viditelný styl posuvníků pro celý web */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* =========================================
+   MOBILNÍ ZOBRAZENÍ
+   ========================================= */
+@media (max-width: 768px) {
+    .top-nav { top: 10px; width: 95%; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding: 10px; }
+    .top-nav::-webkit-scrollbar { display: none; }
+    
+    #sidebarLeft { width: 320px; }
+    .sidebar-left-collapsed { transform: translateX(-320px); }
+    
+    #sidebar { width: 320px; }
+    .sidebar-right-collapsed { transform: translateX(320px); }
+
+    .modal-grid { grid-template-columns: 1fr; overflow-y: auto; }
+    .prison-info-panel { border-right: none; border-bottom: 1px solid var(--border); }
+}
+
+/* =========================================
+   FINÁLNÍ MINIMALISTICKÁ LEGENDA (PILL DESIGN)
+   ========================================= */
+.legend {
+    /* Glassmorphism efekt */
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    
+    /* Tvar a stín */
+    padding: 8px 24px;
+    border-radius: 50px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    
+    /* Fixní pozice na střed spodní části */
+    position: fixed !important;
+    left: 50% !important;
+    bottom: 25px !important;
+    transform: translateX(-50%);
+    margin: 0 !important;
+    z-index: 9999;
+
+    /* Rozvržení */
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    white-space: nowrap;
+}
+
+.legend-section {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* Technické popisky sekcí */
+.legend-header strong {
+    font-size: 9px !important;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #94a3b8;
+    font-weight: 800;
+}
+
+.legend-items-grid {
+    display: flex;
+    gap: 10px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+    font-weight: 600;
+    color: #1e293b;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    padding: 4px 8px;
+    border-radius: 20px;
+}
+
+/* Jemné zvýraznění při najetí */
+.legend-item:hover {
+    background: rgba(255, 255, 255, 0.5);
+    color: #2563eb;
+}
+
+.legend-color {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+    box-shadow: inset 0 0 0 1px rgba(0,0,0,0.05);
+}
+
+.legend-divider {
+    width: 1px;
+    height: 16px;
+    background: rgba(0, 0, 0, 0.08);
+}
+
+/* Kapacita - bubliny */
+.capacity-dots {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.capacity-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 10px;
+    font-weight: 800;
+    color: #64748b;
+}
+
+.capacity-circle {
+    background: rgba(148, 163, 184, 0.4);
+    border: 1px solid #94a3b8;
+    border-radius: 50%;
+}

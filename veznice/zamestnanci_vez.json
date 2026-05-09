@@ -1,0 +1,1399 @@
+{
+    "Vzdělání dle typu zaměstnance muži": [
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 1,
+            "celkem": 1,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 138,
+            "občanští zaměstnanci": 191,
+            "celkem": 329,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 4239,
+            "občanští zaměstnanci": 641,
+            "celkem": 4880,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 105,
+            "občanští zaměstnanci": 52,
+            "celkem": 157,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 463,
+            "občanští zaměstnanci": 378,
+            "celkem": 841,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 414,
+            "občanští zaměstnanci": 727,
+            "celkem": 1141,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 5359,
+            "občanští zaměstnanci": 1990,
+            "celkem": 7349,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 2,
+            "celkem": 2,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 137,
+            "občanští zaměstnanci": 194,
+            "celkem": 331,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 4429,
+            "občanští zaměstnanci": 669,
+            "celkem": 5098,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 108,
+            "občanští zaměstnanci": 58,
+            "celkem": 166,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 487,
+            "občanští zaměstnanci": 382,
+            "celkem": 869,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 419,
+            "občanští zaměstnanci": 789,
+            "celkem": 1208,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 5580,
+            "občanští zaměstnanci": 2094,
+            "celkem": 7674,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 1,
+            "celkem": 1,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 112,
+            "občanští zaměstnanci": 199,
+            "celkem": 311,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 4421,
+            "občanští zaměstnanci": 652,
+            "celkem": 5073,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 99,
+            "občanští zaměstnanci": 57,
+            "celkem": 156,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 514,
+            "občanští zaměstnanci": 392,
+            "celkem": 906,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 401,
+            "občanští zaměstnanci": 827,
+            "celkem": 1228,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 5547,
+            "občanští zaměstnanci": 2128,
+            "celkem": 7675,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 2,
+            "celkem": 2,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 110,
+            "občanští zaměstnanci": 190,
+            "celkem": 300,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 4764,
+            "občanští zaměstnanci": 665,
+            "celkem": 5429,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 97,
+            "občanští zaměstnanci": 50,
+            "celkem": 147,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 538,
+            "občanští zaměstnanci": 386,
+            "celkem": 924,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 445,
+            "občanští zaměstnanci": 866,
+            "celkem": 1311,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 5954,
+            "občanští zaměstnanci": 2159,
+            "celkem": 8113,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 2,
+            "celkem": 2,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 128,
+            "občanští zaměstnanci": 206,
+            "celkem": 334,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 4812,
+            "občanští zaměstnanci": 662,
+            "celkem": 5474,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 94,
+            "občanští zaměstnanci": 60,
+            "celkem": 154,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 540,
+            "občanští zaměstnanci": 398,
+            "celkem": 938,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 442,
+            "občanští zaměstnanci": 853,
+            "celkem": 1295,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 6016,
+            "občanští zaměstnanci": 2181,
+            "celkem": 8197,
+            "rok": 2020
+        }
+    ],
+    "Vzdělání dle typu zaměstnance ŽENY": [
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 2,
+            "celkem": 2,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 9,
+            "občanští zaměstnanci": 71,
+            "celkem": 80,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 821,
+            "občanští zaměstnanci": 896,
+            "celkem": 1717,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 30,
+            "občanští zaměstnanci": 84,
+            "celkem": 114,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 136,
+            "občanští zaměstnanci": 357,
+            "celkem": 493,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 123,
+            "občanští zaměstnanci": 558,
+            "celkem": 681,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 1119,
+            "občanští zaměstnanci": 1968,
+            "celkem": 3087,
+            "rok": 2024
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 4,
+            "celkem": 4,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 6,
+            "občanští zaměstnanci": 78,
+            "celkem": 84,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 795,
+            "občanští zaměstnanci": 985,
+            "celkem": 1780,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 26,
+            "občanští zaměstnanci": 88,
+            "celkem": 114,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 139,
+            "občanští zaměstnanci": 373,
+            "celkem": 512,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 117,
+            "občanští zaměstnanci": 588,
+            "celkem": 705,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 1083,
+            "občanští zaměstnanci": 2116,
+            "celkem": 3199,
+            "rok": 2023
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 6,
+            "celkem": 6,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 6,
+            "občanští zaměstnanci": 76,
+            "celkem": 82,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 736,
+            "občanští zaměstnanci": 1007,
+            "celkem": 1743,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 26,
+            "občanští zaměstnanci": 78,
+            "celkem": 104,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 125,
+            "občanští zaměstnanci": 370,
+            "celkem": 495,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 117,
+            "občanští zaměstnanci": 615,
+            "celkem": 732,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 1010,
+            "občanští zaměstnanci": 2152,
+            "celkem": 3162,
+            "rok": 2022
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 6,
+            "celkem": 6,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 6,
+            "občanští zaměstnanci": 63,
+            "celkem": 69,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 734,
+            "občanští zaměstnanci": 1001,
+            "celkem": 1735,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 32,
+            "občanští zaměstnanci": 65,
+            "celkem": 97,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 115,
+            "občanští zaměstnanci": 361,
+            "celkem": 476,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 123,
+            "občanští zaměstnanci": 601,
+            "celkem": 724,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 1010,
+            "občanští zaměstnanci": 2097,
+            "celkem": 3107,
+            "rok": 2021
+        },
+        {
+            "druh vzdělání": "Základní",
+            "příslušníci": 0,
+            "občanští zaměstnanci": 9,
+            "celkem": 9,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Střední (+vyučení)",
+            "příslušníci": 6,
+            "občanští zaměstnanci": 74,
+            "celkem": 80,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Střední (maturita)",
+            "příslušníci": 710,
+            "občanští zaměstnanci": 1017,
+            "celkem": 1727,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Vyšší odborné",
+            "příslušníci": 26,
+            "občanští zaměstnanci": 75,
+            "celkem": 101,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Bakalářské",
+            "příslušníci": 117,
+            "občanští zaměstnanci": 380,
+            "celkem": 497,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Magisterské",
+            "příslušníci": 118,
+            "občanští zaměstnanci": 589,
+            "celkem": 707,
+            "rok": 2020
+        },
+        {
+            "druh vzdělání": "Celkem",
+            "příslušníci": 977,
+            "občanští zaměstnanci": 2144,
+            "celkem": 3121,
+            "rok": 2020
+        }
+    ],
+    "věkové složení ": [
+        {
+            "Věková škála": "do 25 let",
+            "Muži": 640,
+            "Ženy": 191,
+            "Celkem": 831,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "od 26 do 30 let",
+            "Muži": 630,
+            "Ženy": 200,
+            "Celkem": 830,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "od 31 do 35 let",
+            "Muži": 817,
+            "Ženy": 240,
+            "Celkem": 1057,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "od 36 do 40 let",
+            "Muži": 1037,
+            "Ženy": 307,
+            "Celkem": 1344,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "od 41 do 45 let",
+            "Muži": 1032,
+            "Ženy": 433,
+            "Celkem": 1465,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "od 46 do 50 let",
+            "Muži": 1082,
+            "Ženy": 581,
+            "Celkem": 1663,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "nad 50 let",
+            "Muži": 2111,
+            "Ženy": 1135,
+            "Celkem": 3246,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "Celkem",
+            "Muži": 7349,
+            "Ženy": 3087,
+            "Celkem": 10436,
+            "rok": 2024
+        },
+        {
+            "Věková škála": "do 25 let",
+            "Muži": 674,
+            "Ženy": 190,
+            "Celkem": 864,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "od 26 do 30 let",
+            "Muži": 654,
+            "Ženy": 203,
+            "Celkem": 857,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "od 31 do 35 let",
+            "Muži": 918,
+            "Ženy": 255,
+            "Celkem": 1173,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "od 36 do 40 let",
+            "Muži": 1090,
+            "Ženy": 301,
+            "Celkem": 1391,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "od 41 do 45 let",
+            "Muži": 1112,
+            "Ženy": 467,
+            "Celkem": 1579,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "od 46 do 50 let",
+            "Muži": 1132,
+            "Ženy": 615,
+            "Celkem": 1747,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "nad 50 let",
+            "Muži": 2094,
+            "Ženy": 1168,
+            "Celkem": 3262,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "Celkem",
+            "Muži": 7674,
+            "Ženy": 3199,
+            "Celkem": 10873,
+            "rok": 2023
+        },
+        {
+            "Věková škála": "do 25 let",
+            "Muži": 613,
+            "Ženy": 153,
+            "Celkem": 766,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "26 do 30 let",
+            "Muži": 666,
+            "Ženy": 204,
+            "Celkem": 870,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "31 do 35 let",
+            "Muži": 989,
+            "Ženy": 243,
+            "Celkem": 1232,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "36 do 40 let",
+            "Muži": 1086,
+            "Ženy": 297,
+            "Celkem": 1383,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "41 do 45 let",
+            "Muži": 1192,
+            "Ženy": 516,
+            "Celkem": 1708,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "46 do 50 let",
+            "Muži": 1095,
+            "Ženy": 640,
+            "Celkem": 1735,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "nad 50 let",
+            "Muži": 2034,
+            "Ženy": 1109,
+            "Celkem": 3143,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "Celkem",
+            "Muži": 7675,
+            "Ženy": 3162,
+            "Celkem": 10837,
+            "rok": 2022
+        },
+        {
+            "Věková škála": "do 25 let",
+            "Muži": 690,
+            "Ženy": 47,
+            "Celkem": 737,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "26 - 30 let",
+            "Muži": 795,
+            "Ženy": 145,
+            "Celkem": 940,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "31 - 35 let",
+            "Muži": 1093,
+            "Ženy": 210,
+            "Celkem": 1303,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "36 - 40 let",
+            "Muži": 1206,
+            "Ženy": 269,
+            "Celkem": 1475,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "41 - 45 let",
+            "Muži": 1377,
+            "Ženy": 501,
+            "Celkem": 1878,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "46 - 50 let",
+            "Muži": 972,
+            "Ženy": 791,
+            "Celkem": 1763,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "nad 50 let",
+            "Muži": 831,
+            "Ženy": 2293,
+            "Celkem": 3124,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "Celkem",
+            "Muži": 6964,
+            "Ženy": 4256,
+            "Celkem": 11220,
+            "rok": 2021
+        },
+        {
+            "Věková škála": "do 25 let",
+            "Muži": 663,
+            "Ženy": 56,
+            "Celkem": 719,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "26 - 30 let",
+            "Muži": 820,
+            "Ženy": 164,
+            "Celkem": 984,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "31 - 35 let",
+            "Muži": 1110,
+            "Ženy": 220,
+            "Celkem": 1330,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "36 - 40 let",
+            "Muži": 1289,
+            "Ženy": 268,
+            "Celkem": 1557,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "41 - 45 let",
+            "Muži": 1355,
+            "Ženy": 575,
+            "Celkem": 1930,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "46 - 50 let",
+            "Muži": 961,
+            "Ženy": 738,
+            "Celkem": 1699,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "nad 50 let",
+            "Muži": 795,
+            "Ženy": 2304,
+            "Celkem": 3099,
+            "rok": 2020
+        },
+        {
+            "Věková škála": "Celkem",
+            "Muži": 6993,
+            "Ženy": 4325,
+            "Celkem": 11318,
+            "rok": 2020
+        }
+    ],
+    "Délka služ. poměru_příslušníci": [
+        {
+            "Délka služebního poměru": "do 6 let",
+            "Muži": 1579,
+            "Ženy": 426,
+            "Celkem": 2005,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "od 6 do 10 let",
+            "Muži": 1058,
+            "Ženy": 254,
+            "Celkem": 1312,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "od 11 do 15 let",
+            "Muži": 693,
+            "Ženy": 72,
+            "Celkem": 765,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "od 16 - 20 let",
+            "Muži": 1233,
+            "Ženy": 148,
+            "Celkem": 1381,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "od 21 do 25 let",
+            "Muži": 458,
+            "Ženy": 175,
+            "Celkem": 633,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "od 26 do 30 let",
+            "Muži": 239,
+            "Ženy": 37,
+            "Celkem": 276,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "nad 30 let",
+            "Muži": 99,
+            "Ženy": 7,
+            "Celkem": 106,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "Celkem",
+            "Muži": 5359,
+            "Ženy": 1119,
+            "Celkem": 6478,
+            "rok": 2024
+        },
+        {
+            "Délka služebního poměru": "do 6 let",
+            "Muži": 1918,
+            "Ženy": 459,
+            "Celkem": 2377,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "od 6 do 10 let",
+            "Muži": 743,
+            "Ženy": 162,
+            "Celkem": 905,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "od 11 do 15 let",
+            "Muži": 1222,
+            "Ženy": 141,
+            "Celkem": 1363,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "od 16 do 20 let",
+            "Muži": 967,
+            "Ženy": 148,
+            "Celkem": 1115,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "od 21 do 25 let",
+            "Muži": 475,
+            "Ženy": 142,
+            "Celkem": 617,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "od 26 do 30 let",
+            "Muži": 217,
+            "Ženy": 28,
+            "Celkem": 245,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "nad 30 let",
+            "Muži": 38,
+            "Ženy": 3,
+            "Celkem": 41,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "Celkem",
+            "Muži": 5580,
+            "Ženy": 1083,
+            "Celkem": 6663,
+            "rok": 2023
+        },
+        {
+            "Délka služebního poměru": "do 6 let",
+            "Muži": 1821,
+            "Ženy": 428,
+            "Celkem": 2249,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "od 6 do 10 let",
+            "Muži": 779,
+            "Ženy": 120,
+            "Celkem": 899,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "od 11 do 15 let",
+            "Muži": 1291,
+            "Ženy": 141,
+            "Celkem": 1432,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "od 16 do 20 let",
+            "Muži": 949,
+            "Ženy": 171,
+            "Celkem": 1120,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "od 21 do 25 let",
+            "Muži": 465,
+            "Ženy": 123,
+            "Celkem": 588,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "od 26 do 30 let",
+            "Muži": 207,
+            "Ženy": 24,
+            "Celkem": 231,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "nad 30 let",
+            "Muži": 35,
+            "Ženy": 3,
+            "Celkem": 38,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "Celkem",
+            "Muži": 5547,
+            "Ženy": 1010,
+            "Celkem": 6557,
+            "rok": 2022
+        },
+        {
+            "Délka služebního poměru": "do 6 let",
+            "Muži": 1506,
+            "Ženy": 272,
+            "Celkem": 1778,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "od 6 do 10 let",
+            "Muži": 589,
+            "Ženy": 154,
+            "Celkem": 743,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "od 11 do 15 let",
+            "Muži": 1048,
+            "Ženy": 102,
+            "Celkem": 1150,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "od 16 - 20 let",
+            "Muži": 1117,
+            "Ženy": 183,
+            "Celkem": 1298,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "od 21 do 25 let",
+            "Muži": 851,
+            "Ženy": 177,
+            "Celkem": 1030,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "od 26 do 30 let",
+            "Muži": 542,
+            "Ženy": 83,
+            "Celkem": 625,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "nad 30 let",
+            "Muži": 301,
+            "Ženy": 39,
+            "Celkem": 340,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "Celkem",
+            "Muži": 5954,
+            "Ženy": 1010,
+            "Celkem": 6964,
+            "rok": 2021
+        },
+        {
+            "Délka služebního poměru": "do 6 let",
+            "Muži": 1855,
+            "Ženy": 378,
+            "Celkem": 2233,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "od 6 do 10 let",
+            "Muži": 803,
+            "Ženy": 73,
+            "Celkem": 876,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "od 11 do 15 let",
+            "Muži": 1631,
+            "Ženy": 173,
+            "Celkem": 1804,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "od 16 - 20 let",
+            "Muži": 849,
+            "Ženy": 264,
+            "Celkem": 1113,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "od 21 do 25 let",
+            "Muži": 613,
+            "Ženy": 70,
+            "Celkem": 683,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "od 26 do 30 let",
+            "Muži": 228,
+            "Ženy": 14,
+            "Celkem": 242,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "nad 30 let",
+            "Muži": 37,
+            "Ženy": 5,
+            "Celkem": 42,
+            "rok": 2020
+        },
+        {
+            "Délka služebního poměru": "Celkem",
+            "Muži": 6016,
+            "Ženy": 977,
+            "Celkem": 6993,
+            "rok": 2020
+        }
+    ],
+    "Délka služ. poměru_obč. zam.": [
+        {
+            "Délka pracovního poměru": "do 6 let",
+            "Muži": 441,
+            "Ženy": 638,
+            "Celkem": 1079,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "od 6 do 10 let",
+            "Muži": 372,
+            "Ženy": 483,
+            "Celkem": 855,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "od 11 do 15 let",
+            "Muži": 172,
+            "Ženy": 227,
+            "Celkem": 399,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "od 16 - 20 let",
+            "Muži": 165,
+            "Ženy": 199,
+            "Celkem": 364,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "od 21 do 25 let",
+            "Muži": 159,
+            "Ženy": 148,
+            "Celkem": 307,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "od 26 do 30 let",
+            "Muži": 283,
+            "Ženy": 155,
+            "Celkem": 438,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "nad 30 let",
+            "Muži": 398,
+            "Ženy": 118,
+            "Celkem": 516,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "Celkem",
+            "Muži": 1990,
+            "Ženy": 1968,
+            "Celkem": 3958,
+            "rok": 2024
+        },
+        {
+            "Délka pracovního poměru": "do 6 let",
+            "Muži": 586,
+            "Ženy": 859,
+            "Celkem": 1445,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "od 6 do 10 let",
+            "Muži": 305,
+            "Ženy": 366,
+            "Celkem": 671,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "od 11 do 15 let",
+            "Muži": 216,
+            "Ženy": 279,
+            "Celkem": 495,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "od 16 do 20 let",
+            "Muži": 146,
+            "Ženy": 175,
+            "Celkem": 321,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "od 21 do 25 let",
+            "Muži": 230,
+            "Ženy": 169,
+            "Celkem": 399,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "od 26 do 30 let",
+            "Muži": 303,
+            "Ženy": 195,
+            "Celkem": 498,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "nad 30 let",
+            "Muži": 308,
+            "Ženy": 73,
+            "Celkem": 381,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "Celkem",
+            "Muži": 2094,
+            "Ženy": 2116,
+            "Celkem": 4210,
+            "rok": 2023
+        },
+        {
+            "Délka pracovního poměru": "do 6 let",
+            "Muži": 633,
+            "Ženy": 949,
+            "Celkem": 1582,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "od 6 do 10 let",
+            "Muži": 284,
+            "Ženy": 304,
+            "Celkem": 588,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "od 11 do 15 let",
+            "Muži": 212,
+            "Ženy": 289,
+            "Celkem": 501,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "od 16 do 20 let",
+            "Muži": 154,
+            "Ženy": 164,
+            "Celkem": 318,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "od 21 do 25 let",
+            "Muži": 251,
+            "Ženy": 193,
+            "Celkem": 443,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "od 26 do 30 let",
+            "Muži": 319,
+            "Ženy": 190,
+            "Celkem": 509,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "nad 30 let",
+            "Muži": 275,
+            "Ženy": 63,
+            "Celkem": 338,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "Celkem",
+            "Muži": 2128,
+            "Ženy": 2152,
+            "Celkem": 4280,
+            "rok": 2022
+        },
+        {
+            "Délka pracovního poměru": "do 6 let",
+            "Muži": 84,
+            "Ženy": 172,
+            "Celkem": 256,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "od 6 do 10 let",
+            "Muži": 62,
+            "Ženy": 140,
+            "Celkem": 202,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "od 11 do 15 let",
+            "Muži": 121,
+            "Ženy": 233,
+            "Celkem": 354,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "od 16 - 20 let",
+            "Muži": 208,
+            "Ženy": 279,
+            "Celkem": 487,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "od 21 do 25 let",
+            "Muži": 306,
+            "Ženy": 323,
+            "Celkem": 632,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "od 26 do 30 let",
+            "Muži": 404,
+            "Ženy": 335,
+            "Celkem": 739,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "nad 30 let",
+            "Muži": 974,
+            "Ženy": 612,
+            "Celkem": 1586,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "Celkem",
+            "Muži": 2159,
+            "Ženy": 2097,
+            "Celkem": 4256,
+            "rok": 2021
+        },
+        {
+            "Délka pracovního poměru": "do 6 let",
+            "Muži": 702,
+            "Ženy": 960,
+            "Celkem": 1662,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "od 6 do 10 let",
+            "Muži": 273,
+            "Ženy": 304,
+            "Celkem": 577,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "od 11 do 15 let",
+            "Muži": 211,
+            "Ženy": 260,
+            "Celkem": 471,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "od 16 - 20 let",
+            "Muži": 184,
+            "Ženy": 195,
+            "Celkem": 379,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "od 21 do 25 let",
+            "Muži": 301,
+            "Ženy": 235,
+            "Celkem": 536,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "od 26 do 30 let",
+            "Muži": 282,
+            "Ženy": 136,
+            "Celkem": 418,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "nad 30 let",
+            "Muži": 228,
+            "Ženy": 54,
+            "Celkem": 282,
+            "rok": 2020
+        },
+        {
+            "Délka pracovního poměru": "Celkem",
+            "Muži": 2181,
+            "Ženy": 2144,
+            "Celkem": 4325,
+            "rok": 2020
+        }
+    ],
+    "celkem zaměstnanci": [
+        {
+            "rok": 2024,
+            "Schválené počty  (plánované)": 11466.0,
+            "Skutečný počet (včetně záloh a tab. nekázně)": 10512.32,
+            "Rozdíl": 953.68,
+            "Neobsazená místa v OJ": 1050.18,
+            "Zálohy": 84,
+            "Skutečný rozdíl (se zálohami, bez nekázně)": 966.18,
+            "Místa v rezervě": 0.29,
+            "Skutečný počet (se zálohami, bez nekázně)": 10499.82
+        },
+        {
+            "rok": 2023,
+            "Schválené počty  (plánované)": 11909.0,
+            "Skutečný počet (včetně záloh a tab. nekázně)": 10918.37,
+            "Rozdíl": 990.63,
+            "Neobsazená místa v OJ": 1083.23,
+            "Zálohy": 82,
+            "Skutečný rozdíl (se zálohami, bez nekázně)": 1001.23,
+            "Místa v rezervě": 3.99,
+            "Skutečný počet (se zálohami, bez nekázně)": 10907.77
+        },
+        {
+            "rok": 2022,
+            "Schválené počty  (plánované)": 11982.8,
+            "Skutečný počet (včetně záloh a tab. nekázně)": 10867.28,
+            "Rozdíl": 1115.52,
+            "Neobsazená místa v OJ": 1202.52,
+            "Zálohy": 87,
+            "Skutečný rozdíl (se zálohami, bez nekázně)": 1115.52,
+            "Místa v rezervě": 2.0,
+            "Skutečný počet (se zálohami, bez nekázně)": 10857.28
+        },
+        {
+            "rok": 2021,
+            "Schválené počty  (plánované)": 11980.8,
+            "Skutečný počet (včetně záloh a tab. nekázně)": 11265.29,
+            "Rozdíl": 715.51,
+            "Neobsazená místa v OJ": 808.51,
+            "Zálohy": 87,
+            "Skutečný rozdíl (se zálohami, bez nekázně)": 721.51,
+            "Místa v rezervě": 1.0,
+            "Skutečný počet (se zálohami, bez nekázně)": 11259.29
+        },
+        {
+            "rok": 2020,
+            "Schválené počty  (plánované)": 11903.8,
+            "Skutečný počet (včetně záloh a tab. nekázně)": 11364.29,
+            "Rozdíl": 539.51,
+            "Neobsazená místa v OJ": 637.01,
+            "Zálohy": 84,
+            "Skutečný rozdíl (se zálohami, bez nekázně)": 553.01,
+            "Místa v rezervě": 0.0,
+            "Skutečný počet (se zálohami, bez nekázně)": 11350.79
+        }
+    ]
+}

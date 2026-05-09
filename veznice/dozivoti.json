@@ -1,0 +1,1609 @@
+{
+    "průměrný počet": [
+        {
+            "mesic": "leden",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "muži": 45,
+            "ženy": 3,
+            "celkem": 48,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "muži": 46,
+            "ženy": 3,
+            "celkem": 49,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "muži": 44,
+            "ženy": 3,
+            "celkem": 47,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "muži": 40,
+            "ženy": 3,
+            "celkem": 43,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "muži": 40,
+            "ženy": 3,
+            "celkem": 43,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "muži": 40,
+            "ženy": 3,
+            "celkem": 43,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "muži": 43,
+            "ženy": 3,
+            "celkem": 46,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "muži": 42,
+            "ženy": 3,
+            "celkem": 45,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "muži": 42,
+            "ženy": 3,
+            "celkem": 45,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "muži": 42,
+            "ženy": 3,
+            "celkem": 45,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "muži": 42,
+            "ženy": 3,
+            "celkem": 45,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "muži": 41,
+            "ženy": 3,
+            "celkem": 44,
+            "rok": 2020
+        }
+    ],
+    "věkové složení": [
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 6,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 13,
+            "Žena": 1.0,
+            "Celkový součet": 14,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 5,
+            "Žena": 1.0,
+            "Celkový součet": 6,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 9,
+            "Žena": 1.0,
+            "Celkový součet": 10,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 10,
+            "Žena": 1.0,
+            "Celkový součet": 11,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 11,
+            "Žena": 1.0,
+            "Celkový součet": 12,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 7,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 11,
+            "Žena": 1.0,
+            "Celkový součet": 12,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 12,
+            "Žena": 1.0,
+            "Celkový součet": 13,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 5,
+            "Žena": 1.0,
+            "Celkový součet": 6,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 11,
+            "Žena": 1.0,
+            "Celkový součet": 12,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 12,
+            "Žena": 1.0,
+            "Celkový součet": 13,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 7,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 7,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2020
+        }
+    ],
+    "již trestaní": [
+        {
+            "Kolikrát ve výkonu trestu": "0x",
+            "Muž": 23,
+            "Žena": 2.0,
+            "Celkový součet": 25,
+            "Celkem v %": 0.5208,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "1x",
+            "Muž": 8,
+            "Žena": 0.0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.1667,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "2x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0625,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "3x",
+            "Muž": 4,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.1042,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "4x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0625,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "6x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "7x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "8x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "9x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve výkonu trestu": "0x",
+            "Muž": 23,
+            "Žena": 2.0,
+            "Celkový součet": 25,
+            "Celkem v %": 0.5102,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "1x",
+            "Muž": 8,
+            "Žena": 0.0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.1633,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "2x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0612,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "3x",
+            "Muž": 4,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.102,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "4x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0612,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "5x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "6x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "7x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "8x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "9x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve výkonu trestu": "0x",
+            "Muž": 21,
+            "Žena": 2.0,
+            "Celkový součet": 23,
+            "Celkem v %": 0.4894,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "1x",
+            "Muž": 9,
+            "Žena": 0.0,
+            "Celkový součet": 9,
+            "Celkem v %": 0.1915,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "2x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0638,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "3x",
+            "Muž": 4,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.1064,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "4x",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0638,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "5x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "6x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "7x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "8x",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve výkonu trestu": "0x",
+            "Muž": 20,
+            "Žena": 2.0,
+            "Celkový součet": 22,
+            "Celkem v %": 0.4783,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "1x",
+            "Muž": 9,
+            "Žena": 0,
+            "Celkový součet": 9,
+            "Celkem v %": 0.1957,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "2x",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0652,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "3x",
+            "Muž": 4,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.1087,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "4x",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0652,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "5x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "6x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "7x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "8x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve výkonu trestu": "0x",
+            "Muž": 19,
+            "Žena": 2.0,
+            "Celkový součet": 21,
+            "Celkem v %": 0.4773,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "1x",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.1591,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "2x",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0909,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "3x",
+            "Muž": 5,
+            "Žena": 1.0,
+            "Celkový součet": 6,
+            "Celkem v %": 0.1364,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "4x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0455,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "5x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0227,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "6x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0227,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "7x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0227,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve výkonu trestu": "8x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0227,
+            "rok": 2020
+        }
+    ],
+    "vzdělání": [
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0417,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0625,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 14,
+            "Žena": 2.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3333,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 15,
+            "Žena": 1.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3333,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0417,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.1458,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0408,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0612,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 15,
+            "Žena": 2.0,
+            "Celkový součet": 17,
+            "Celkem v %": 0.3469,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 15,
+            "Žena": 1.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3265,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0408,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.1429,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0426,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0638,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 14,
+            "Žena": 2.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3404,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 15,
+            "Žena": 1.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3404,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.1489,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0435,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0652,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 14,
+            "Žena": 2.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3478,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 6,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "Celkem v %": 0.1304,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 15,
+            "Žena": 1.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.3478,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 6.82,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 2.27,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 6.82,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 13,
+            "Žena": 2.0,
+            "Celkový součet": 15,
+            "Celkem v %": 34.09,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 14,
+            "Žena": 1.0,
+            "Celkový součet": 15,
+            "Celkem v %": 34.09,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 2.27,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 2.27,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 11.36,
+            "rok": 2020
+        }
+    ],
+    "státní příslušnost": [
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 41,
+            "Žena": 3.0,
+            "Celkový součet": 44,
+            "Celkem v%": 0.9167,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0417,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 42,
+            "Žena": 3.0,
+            "Celkový součet": 45,
+            "Celkem v%": 0.9184,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0408,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 40,
+            "Žena": 3.0,
+            "Celkový součet": 43,
+            "Celkem v%": 0.9149,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0426,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 39,
+            "Žena": 3.0,
+            "Celkový součet": 42,
+            "Celkem v%": 0.913,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0435,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 37,
+            "Žena": 3.0,
+            "Celkový součet": 40,
+            "Celkem v%": 90.91,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 2.27,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 4.55,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 2.27,
+            "rok": 2020
+        }
+    ]
+}

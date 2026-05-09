@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analýza soudnictví ČR</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="stylesoud.css">
+</head>
+<body>
+    
+    <nav class="top-nav">
+        <a href="../veznice/veznice.html">Přehled věznic</a>
+        <a href="soudy.html" class="active">Přehled soudů</a>
+        <a href="../pcr/pcr.html">Mapa Kriminality</a>
+        <a href="../projekt/dip_web.pdf" target="_blank">Diplomová práce</a>
+        <a href="../projekt/broz_web.pdf" target="_blank">Brožura</a>
+        <a href="../projekt/projekt.html">O projektu</a>
+    </nav>
+
+    <div class="content-wrapper">
+        
+       <aside id="sidebar">
+            <header class="sidebar-header">
+                <h2>Statistiky soudů</h2>
+                <p style="font-size: 13px; color: #64748b; margin-top: 5px;">Interaktivní přehled výkonnosti soudů ČR</p>
+            </header>
+
+            <div class="layer-toggle">
+                <input type="radio" id="level-ks" name="court-level" value="KS" checked>
+                <label for="level-ks">Krajské soudy</label>
+                
+                <input type="radio" id="level-os" name="court-level" value="OS">
+                <label for="level-os">Okresní soudy</label>
+            </div>
+
+            <div class="search-container">
+                <label>Hledat soud</label>
+                <input type="text" id="courtSearch" class="modern-input" placeholder="Začněte psát název (např. Praha, Brno...)" autocomplete="off">
+                <ul id="searchSuggestions" class="autocomplete-list"></ul>
+            </div>
+
+            <section class="filters">
+                <div class="control-group">
+                    <label>Agenda</label>
+                    <select id="agendaSelect" class="modern-select"></select>
+                </div>
+                <div class="control-group">
+                    <label>Rok</label>
+                    <select id="yearSelect" class="modern-select"></select>
+                </div>
+                <div class="control-group param-group">
+                    <label>Sledovaná hodnota k zobrazení v mapě</label>
+                    <select id="metricSelect" class="modern-select"></select>
+                </div>
+            </section>
+
+            <div id="loader" class="loader-box">
+                <div class="spinner"></div> <span>Načítám a zpracovávám data...</span>
+            </div>
+
+            <section id="details" class="details-container">
+                <div class="empty-state">
+                    Vyberte soud v mapě nebo přes vyhledávání pro zobrazení detailů.
+                </div>
+            </section>
+        </aside>
+
+        <main id="map"></main>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="scriptsoud.js"></script>
+</body>
+</html>

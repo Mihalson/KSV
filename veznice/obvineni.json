@@ -1,0 +1,1792 @@
+{
+    "členění dle délky vazby": [
+        {
+            "Délka vazby": "do 2 měsíců",
+            "Muž": 488,
+            "Žena": 29,
+            "Celkový součet": 517,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "2 až 4 měsíce",
+            "Muž": 338,
+            "Žena": 22,
+            "Celkový součet": 360,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "4 až 6 měsíců",
+            "Muž": 182,
+            "Žena": 9,
+            "Celkový součet": 191,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "6 až 9 měsíců",
+            "Muž": 198,
+            "Žena": 17,
+            "Celkový součet": 215,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "9 měsíců až 1 rok",
+            "Muž": 116,
+            "Žena": 7,
+            "Celkový součet": 123,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "1 rok až 2 roky",
+            "Muž": 159,
+            "Žena": 13,
+            "Celkový součet": 172,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "nad 2 roky",
+            "Muž": 17,
+            "Žena": 1,
+            "Celkový součet": 18,
+            "rok": 2024
+        },
+        {
+            "Délka vazby": "do 2 měsíců",
+            "Muž": 449,
+            "Žena": 36,
+            "Celkový součet": 485,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "2 až 4 měsíce",
+            "Muž": 352,
+            "Žena": 33,
+            "Celkový součet": 385,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "4 až 6 měsíců",
+            "Muž": 207,
+            "Žena": 12,
+            "Celkový součet": 219,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "6 až 9 měsíců",
+            "Muž": 185,
+            "Žena": 16,
+            "Celkový součet": 201,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "9 měsíců až 1 rok",
+            "Muž": 116,
+            "Žena": 18,
+            "Celkový součet": 134,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "1 až 2 roky",
+            "Muž": 103,
+            "Žena": 7,
+            "Celkový součet": 110,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "nad 2 roky",
+            "Muž": 28,
+            "Žena": 4,
+            "Celkový součet": 32,
+            "rok": 2023
+        },
+        {
+            "Délka vazby": "do 2 měsíců",
+            "Muž": 431,
+            "Žena": 43,
+            "Celkový součet": 474,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "2 až 4 měsíce",
+            "Muž": 332,
+            "Žena": 26,
+            "Celkový součet": 358,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "4 až 6 měsíců",
+            "Muž": 171,
+            "Žena": 11,
+            "Celkový součet": 182,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "6 až 9 měsíců",
+            "Muž": 188,
+            "Žena": 14,
+            "Celkový součet": 202,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "9 měsíců až 1 rok",
+            "Muž": 77,
+            "Žena": 5,
+            "Celkový součet": 82,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "1 rok až 2 roky",
+            "Muž": 117,
+            "Žena": 16,
+            "Celkový součet": 133,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "nad 2 roky",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "rok": 2022
+        },
+        {
+            "Délka vazby": "do 2 měsíců",
+            "Muž": 495,
+            "Žena": 39,
+            "Celkový součet": 534,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "2 až 4 měsíce",
+            "Muž": 317,
+            "Žena": 20,
+            "Celkový součet": 337,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "4 až 6 měsíců",
+            "Muž": 161,
+            "Žena": 8,
+            "Celkový součet": 169,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "6 až 9 měsíců",
+            "Muž": 160,
+            "Žena": 16,
+            "Celkový součet": 176,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "9 měsíců až 1 rok",
+            "Muž": 66,
+            "Žena": 7,
+            "Celkový součet": 73,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "1 až 2 roky",
+            "Muž": 71,
+            "Žena": 4,
+            "Celkový součet": 75,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "nad 2 roky",
+            "Muž": 26,
+            "Žena": 2,
+            "Celkový součet": 28,
+            "rok": 2021
+        },
+        {
+            "Délka vazby": "do 2 měsíců",
+            "Muž": 494,
+            "Žena": 37,
+            "Celkový součet": 531,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "2 až 4 měsíce",
+            "Muž": 343,
+            "Žena": 23,
+            "Celkový součet": 366,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "4 až 6 měsíců",
+            "Muž": 216,
+            "Žena": 7,
+            "Celkový součet": 223,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "6 až 9 měsíců",
+            "Muž": 167,
+            "Žena": 14,
+            "Celkový součet": 181,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "9 měsíců až 1 rok",
+            "Muž": 96,
+            "Žena": 6,
+            "Celkový součet": 102,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "1 až 2 roky",
+            "Muž": 123,
+            "Žena": 15,
+            "Celkový součet": 138,
+            "rok": 2020
+        },
+        {
+            "Délka vazby": "nad 2 roky",
+            "Muž": 28,
+            "Žena": 1,
+            "Celkový součet": 29,
+            "rok": 2020
+        }
+    ],
+    "věkové složení": [
+        {
+            "Věková kategorie": "16 - nedovršených 17 let",
+            "Muž": 6,
+            "Žena": 0.0,
+            "Celkový součet": 6,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "17 - nedovršených 18 let",
+            "Muž": 13,
+            "Žena": 1.0,
+            "Celkový součet": 14,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "18 - nedovršených 19 let",
+            "Muž": 18,
+            "Žena": 2.0,
+            "Celkový součet": 20,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "19 - nedovršených 20 let",
+            "Muž": 18,
+            "Žena": 0.0,
+            "Celkový součet": 18,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "20 - nedovršených 21 let",
+            "Muž": 20,
+            "Žena": 0.0,
+            "Celkový součet": 20,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 20,
+            "Žena": 0.0,
+            "Celkový součet": 20,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 63,
+            "Žena": 3.0,
+            "Celkový součet": 66,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 157,
+            "Žena": 17.0,
+            "Celkový součet": 174,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 242,
+            "Žena": 18.0,
+            "Celkový součet": 260,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 271,
+            "Žena": 12.0,
+            "Celkový součet": 283,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 216,
+            "Žena": 17.0,
+            "Celkový součet": 233,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 188,
+            "Žena": 11.0,
+            "Celkový součet": 199,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 126,
+            "Žena": 11.0,
+            "Celkový součet": 137,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 64,
+            "Žena": 2.0,
+            "Celkový součet": 66,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 38,
+            "Žena": 2.0,
+            "Celkový součet": 40,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 24,
+            "Žena": 1.0,
+            "Celkový součet": 25,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 7,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 5,
+            "Žena": 0.0,
+            "Celkový součet": 5,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "nad 80 let",
+            "Muž": 2,
+            "Žena": 0.0,
+            "Celkový součet": 2,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "16 - nedovršených 17 let",
+            "Muž": 6,
+            "Žena": 1.0,
+            "Celkový součet": 7,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "17 - nedovršených 18 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "18 - nedovršených 19 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "19 - nedovršených 20 let",
+            "Muž": 18,
+            "Žena": 0,
+            "Celkový součet": 18,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "20 - nedovršených 21 let",
+            "Muž": 24,
+            "Žena": 3.0,
+            "Celkový součet": 27,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 24,
+            "Žena": 1.0,
+            "Celkový součet": 25,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 75,
+            "Žena": 4.0,
+            "Celkový součet": 79,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 171,
+            "Žena": 19.0,
+            "Celkový součet": 190,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 249,
+            "Žena": 38.0,
+            "Celkový součet": 287,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 253,
+            "Žena": 14.0,
+            "Celkový součet": 267,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 188,
+            "Žena": 19.0,
+            "Celkový součet": 207,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 181,
+            "Žena": 11.0,
+            "Celkový součet": 192,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 112,
+            "Žena": 6.0,
+            "Celkový součet": 118,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 63,
+            "Žena": 4.0,
+            "Celkový součet": 67,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 34,
+            "Žena": 3.0,
+            "Celkový součet": 37,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 16,
+            "Žena": 1.0,
+            "Celkový součet": 17,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "nad 80 let",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "16 - nedovršených 17 let",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "17 - nedovršených 18 let",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "18 - nedovršených 19 let",
+            "Muž": 8,
+            "Žena": 2.0,
+            "Celkový součet": 10,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "19 - nedovršených 20 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "20 - nedovršených 21 let",
+            "Muž": 23,
+            "Žena": 1.0,
+            "Celkový součet": 24,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 23,
+            "Žena": 2.0,
+            "Celkový součet": 25,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 73,
+            "Žena": 5.0,
+            "Celkový součet": 78,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 180,
+            "Žena": 12.0,
+            "Celkový součet": 192,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 232,
+            "Žena": 26.0,
+            "Celkový součet": 258,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 226,
+            "Žena": 17.0,
+            "Celkový součet": 243,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 176,
+            "Žena": 15.0,
+            "Celkový součet": 191,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 153,
+            "Žena": 14.0,
+            "Celkový součet": 167,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 92,
+            "Žena": 8.0,
+            "Celkový součet": 100,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 70,
+            "Žena": 5.0,
+            "Celkový součet": 75,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 26,
+            "Žena": 5.0,
+            "Celkový součet": 31,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 17,
+            "Žena": 1.0,
+            "Celkový součet": 18,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 2,
+            "Žena": 1.0,
+            "Celkový součet": 3,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "16 - nedovršených 17 let",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "17 - nedovršených 18 let",
+            "Muž": 6,
+            "Žena": 0.0,
+            "Celkový součet": 6,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "18 - nedovršených 19 let",
+            "Muž": 8,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "19 - nedovršených 20 let",
+            "Muž": 11,
+            "Žena": 0.0,
+            "Celkový součet": 11,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "20 - nedovršených 21 let",
+            "Muž": 9,
+            "Žena": 0.0,
+            "Celkový součet": 9,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 18,
+            "Žena": 2.0,
+            "Celkový součet": 20,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 63,
+            "Žena": 4.0,
+            "Celkový součet": 67,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 178,
+            "Žena": 11.0,
+            "Celkový součet": 189,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 235,
+            "Žena": 14.0,
+            "Celkový součet": 249,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 245,
+            "Žena": 23.0,
+            "Celkový součet": 268,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 191,
+            "Žena": 19.0,
+            "Celkový součet": 210,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 150,
+            "Žena": 10.0,
+            "Celkový součet": 160,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 76,
+            "Žena": 7.0,
+            "Celkový součet": 83,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 55,
+            "Žena": 4.0,
+            "Celkový součet": 59,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 31,
+            "Žena": 1.0,
+            "Celkový součet": 32,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 16,
+            "Žena": 0.0,
+            "Celkový součet": 16,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 3,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "16 - nedovršených 17 let",
+            "Muž": 5,
+            "Žena": 0.0,
+            "Celkový součet": 5,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "17 - nedovršených 18 let",
+            "Muž": 6,
+            "Žena": 2.0,
+            "Celkový součet": 8,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "18 - nedovršených 19 let",
+            "Muž": 6,
+            "Žena": 0.0,
+            "Celkový součet": 6,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "19 - nedovršených 20 let",
+            "Muž": 15,
+            "Žena": 0.0,
+            "Celkový součet": 15,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "20 - nedovršených 21 let",
+            "Muž": 18,
+            "Žena": 3.0,
+            "Celkový součet": 21,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 21,
+            "Žena": 0.0,
+            "Celkový součet": 21,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 81,
+            "Žena": 7.0,
+            "Celkový součet": 88,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 209,
+            "Žena": 15.0,
+            "Celkový součet": 224,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 262,
+            "Žena": 22.0,
+            "Celkový součet": 284,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 237,
+            "Žena": 13.0,
+            "Celkový součet": 250,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 203,
+            "Žena": 18.0,
+            "Celkový součet": 221,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 164,
+            "Žena": 8.0,
+            "Celkový součet": 172,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 120,
+            "Žena": 10.0,
+            "Celkový součet": 130,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 62,
+            "Žena": 1.0,
+            "Celkový součet": 63,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 30,
+            "Žena": 3.0,
+            "Celkový součet": 33,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 22,
+            "Žena": 1.0,
+            "Celkový součet": 23,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "70 - nedovršených 75 let",
+            "Muž": 5,
+            "Žena": 0.0,
+            "Celkový součet": 5,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "75 - nedovršených 80 let",
+            "Muž": 1,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "rok": 2020
+        }
+    ],
+    "vzdělání": [
+        {
+            "Nejvyšší dosažené vzdělání": "nezjištěno (cizinec, neuvedeno)",
+            "Muž": 54,
+            "Žena": 3.0,
+            "Celkový součet": 57,
+            "Celkem v %": 0.0357,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 24,
+            "Žena": 2.0,
+            "Celkový součet": 26,
+            "Celkem v %": 0.0163,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0025,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 13,
+            "Žena": 1.0,
+            "Celkový součet": 14,
+            "Celkem v %": 0.0088,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 671,
+            "Žena": 49.0,
+            "Celkový součet": 720,
+            "Celkem v %": 0.4511,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 426,
+            "Žena": 22.0,
+            "Celkový součet": 448,
+            "Celkem v %": 0.2807,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 21,
+            "Žena": 2.0,
+            "Celkový součet": 23,
+            "Celkem v %": 0.0144,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 27,
+            "Žena": 1.0,
+            "Celkový součet": 28,
+            "Celkem v %": 0.0175,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 48,
+            "Žena": 3.0,
+            "Celkový součet": 51,
+            "Celkem v %": 0.032,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 157,
+            "Žena": 13.0,
+            "Celkový součet": 170,
+            "Celkem v %": 0.1065,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyšší odborné",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0019,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 17,
+            "Žena": 0,
+            "Celkový součet": 17,
+            "Celkem v %": 0.0107,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - magisterské",
+            "Muž": 11,
+            "Žena": 0,
+            "Celkový součet": 11,
+            "Celkem v %": 0.0069,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 14,
+            "Žena": 2.0,
+            "Celkový součet": 16,
+            "Celkem v %": 0.01,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - doktorské",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.005,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nezjištěno (cizinec, neuvedeno)",
+            "Muž": 97,
+            "Žena": 1.0,
+            "Celkový součet": 98,
+            "Celkem v %": 0.0626,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 22,
+            "Žena": 5.0,
+            "Celkový součet": 27,
+            "Celkem v %": 0.0172,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0026,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 15,
+            "Žena": 3.0,
+            "Celkový součet": 18,
+            "Celkem v %": 0.0115,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 651,
+            "Žena": 60.0,
+            "Celkový součet": 711,
+            "Celkem v %": 0.454,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 385,
+            "Žena": 29.0,
+            "Celkový součet": 414,
+            "Celkem v %": 0.2644,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 22,
+            "Žena": 2.0,
+            "Celkový součet": 24,
+            "Celkem v %": 0.0153,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské vzdělání bez maturity",
+            "Muž": 17,
+            "Žena": 0,
+            "Celkový součet": 17,
+            "Celkem v %": 0.0109,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 35,
+            "Žena": 6.0,
+            "Celkový součet": 41,
+            "Celkem v %": 0.0262,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 132,
+            "Žena": 10.0,
+            "Celkový součet": 142,
+            "Celkem v %": 0.0907,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyšší odborné",
+            "Muž": 4,
+            "Žena": 3.0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.0045,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 21,
+            "Žena": 3.0,
+            "Celkový součet": 24,
+            "Celkem v %": 0.0153,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - magisterské",
+            "Muž": 11,
+            "Žena": 3.0,
+            "Celkový součet": 14,
+            "Celkem v %": 0.0089,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 22,
+            "Žena": 1.0,
+            "Celkový součet": 23,
+            "Celkem v %": 0.0147,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - doktorské",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0013,
+            "rok": 2023
+        }
+    ],
+    "průměrný stav": [
+        {
+            "mesic": "leden",
+            "dospeli M": 1397.83,
+            "dospele Z": 121.39,
+            "maldiství M": 23.7,
+            "mladiství Z": 3.43,
+            "uhrnem M": 1421.52,
+            "uhrnem Z": 124.83,
+            "celkem": 1546.35,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "dospeli M": 1382.38,
+            "dospele Z": 113.05,
+            "maldiství M": 28.81,
+            "mladiství Z": 1.67,
+            "uhrnem M": 1411.19,
+            "uhrnem Z": 114.71,
+            "celkem": 1525.9,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "dospeli M": 1442.75,
+            "dospele Z": 111.1,
+            "maldiství M": 32.4,
+            "mladiství Z": 1.0,
+            "uhrnem M": 1475.15,
+            "uhrnem Z": 112.1,
+            "celkem": 1587.25,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "dospeli M": 1438.62,
+            "dospele Z": 108.14,
+            "maldiství M": 34.24,
+            "mladiství Z": 1.0,
+            "uhrnem M": 1472.86,
+            "uhrnem Z": 109.14,
+            "celkem": 1582.0,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "dospeli M": 1440.33,
+            "dospele Z": 109.48,
+            "maldiství M": 36.52,
+            "mladiství Z": 1.0,
+            "uhrnem M": 1476.86,
+            "uhrnem Z": 110.48,
+            "celkem": 1587.33,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "dospeli M": 1436.15,
+            "dospele Z": 107.55,
+            "maldiství M": 36.1,
+            "mladiství Z": 1.0,
+            "uhrnem M": 1472.25,
+            "uhrnem Z": 108.55,
+            "celkem": 1580.8,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "dospeli M": 1452.37,
+            "dospele Z": 99.74,
+            "maldiství M": 31.89,
+            "mladiství Z": 1.47,
+            "uhrnem M": 1484.26,
+            "uhrnem Z": 101.21,
+            "celkem": 1585.47,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "dospeli M": 1451.33,
+            "dospele Z": 104.43,
+            "maldiství M": 25.14,
+            "mladiství Z": 2.0,
+            "uhrnem M": 1476.48,
+            "uhrnem Z": 106.43,
+            "celkem": 1582.9,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "dospeli M": 1427.21,
+            "dospele Z": 105.63,
+            "maldiství M": 22.0,
+            "mladiství Z": 2.0,
+            "uhrnem M": 1449.21,
+            "uhrnem Z": 107.63,
+            "celkem": 1556.84,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "dospeli M": 1449.86,
+            "dospele Z": 96.29,
+            "maldiství M": 21.05,
+            "mladiství Z": 2.38,
+            "uhrnem M": 1470.9,
+            "uhrnem Z": 98.67,
+            "celkem": 1569.57,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "dospeli M": 1483.24,
+            "dospele Z": 98.76,
+            "maldiství M": 22.9,
+            "mladiství Z": 2.33,
+            "uhrnem M": 1506.14,
+            "uhrnem Z": 101.1,
+            "celkem": 1607.24,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "dospeli M": 1474.37,
+            "dospele Z": 101.74,
+            "maldiství M": 34.53,
+            "mladiství Z": 2.26,
+            "uhrnem M": 1508.89,
+            "uhrnem Z": 104.0,
+            "celkem": 1612.89,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "dospeli M": 1309.14,
+            "dospele Z": 113.41,
+            "maldiství M": 21.64,
+            "mladiství Z": 3.5,
+            "uhrnem M": 1330.77,
+            "uhrnem Z": 116.91,
+            "celkem": 1447.68,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "dospeli M": 1354.75,
+            "dospele Z": 120.75,
+            "maldiství M": 30.9,
+            "mladiství Z": 4.25,
+            "uhrnem M": 1385.65,
+            "uhrnem Z": 125.0,
+            "celkem": 1510.65,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "dospeli M": 1385.96,
+            "dospele Z": 118.22,
+            "maldiství M": 23.35,
+            "mladiství Z": 3.3,
+            "uhrnem M": 1409.3,
+            "uhrnem Z": 121.52,
+            "celkem": 1530.83,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "dospeli M": 1419.39,
+            "dospele Z": 112.89,
+            "maldiství M": 22.28,
+            "mladiství Z": 3.0,
+            "uhrnem M": 1441.67,
+            "uhrnem Z": 115.89,
+            "celkem": 1557.56,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "dospeli M": 1425.33,
+            "dospele Z": 112.29,
+            "maldiství M": 20.81,
+            "mladiství Z": 3.86,
+            "uhrnem M": 1446.14,
+            "uhrnem Z": 116.14,
+            "celkem": 1562.29,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "dospeli M": 1389.18,
+            "dospele Z": 114.32,
+            "maldiství M": 25.09,
+            "mladiství Z": 3.77,
+            "uhrnem M": 1414.27,
+            "uhrnem Z": 118.09,
+            "celkem": 1532.36,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "dospeli M": 1377.22,
+            "dospele Z": 122.17,
+            "maldiství M": 23.33,
+            "mladiství Z": 5.0,
+            "uhrnem M": 1400.56,
+            "uhrnem Z": 127.17,
+            "celkem": 1527.72,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "dospeli M": 1399.65,
+            "dospele Z": 128.91,
+            "maldiství M": 23.39,
+            "mladiství Z": 4.83,
+            "uhrnem M": 1423.04,
+            "uhrnem Z": 133.74,
+            "celkem": 1556.78,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "dospeli M": 1419.85,
+            "dospele Z": 118.75,
+            "maldiství M": 24.0,
+            "mladiství Z": 3.25,
+            "uhrnem M": 1443.85,
+            "uhrnem Z": 122.0,
+            "celkem": 1565.85,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "dospeli M": 1429.61,
+            "dospele Z": 110.39,
+            "maldiství M": 24.48,
+            "mladiství Z": 2.26,
+            "uhrnem M": 1454.09,
+            "uhrnem Z": 112.65,
+            "celkem": 1566.74,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "dospeli M": 1442.35,
+            "dospele Z": 115.9,
+            "maldiství M": 26.95,
+            "mladiství Z": 2.0,
+            "uhrnem M": 1469.3,
+            "uhrnem Z": 117.9,
+            "celkem": 1587.2,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "dospeli M": 1413.53,
+            "dospele Z": 117.74,
+            "maldiství M": 23.32,
+            "mladiství Z": 2.47,
+            "uhrnem M": 1436.84,
+            "uhrnem Z": 120.21,
+            "celkem": 1557.05,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "dospeli M": 1258.23,
+            "dospele Z": 95.0,
+            "maldiství M": 15.5,
+            "mladiství Z": 0.64,
+            "uhrnem M": 1273.73,
+            "uhrnem Z": 95.64,
+            "celkem": 1369.36,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "dospeli M": 1267.7,
+            "dospele Z": 104.6,
+            "maldiství M": 15.85,
+            "mladiství Z": 0.55,
+            "uhrnem M": 1283.55,
+            "uhrnem Z": 105.15,
+            "celkem": 1388.7,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "dospeli M": 1265.09,
+            "dospele Z": 108.04,
+            "maldiství M": 17.43,
+            "mladiství Z": 1.61,
+            "uhrnem M": 1282.52,
+            "uhrnem Z": 109.65,
+            "celkem": 1392.17,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "dospeli M": 1276.68,
+            "dospele Z": 101.63,
+            "maldiství M": 15.84,
+            "mladiství Z": 1.32,
+            "uhrnem M": 1292.53,
+            "uhrnem Z": 102.95,
+            "celkem": 1395.47,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "dospeli M": 1293.27,
+            "dospele Z": 99.09,
+            "maldiství M": 13.73,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1307.0,
+            "uhrnem Z": 99.09,
+            "celkem": 1406.09,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "dospeli M": 1301.18,
+            "dospele Z": 110.36,
+            "maldiství M": 18.14,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1319.32,
+            "uhrnem Z": 110.36,
+            "celkem": 1429.68,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "dospeli M": 1288.58,
+            "dospele Z": 113.89,
+            "maldiství M": 14.42,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1303.0,
+            "uhrnem Z": 113.89,
+            "celkem": 1416.89,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "dospeli M": 1304.57,
+            "dospele Z": 110.04,
+            "maldiství M": 14.96,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1319.52,
+            "uhrnem Z": 110.04,
+            "celkem": 1429.57,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "dospeli M": 1318.67,
+            "dospele Z": 108.48,
+            "maldiství M": 19.0,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1337.67,
+            "uhrnem Z": 108.48,
+            "celkem": 1446.14,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "dospeli M": 1337.35,
+            "dospele Z": 111.25,
+            "maldiství M": 22.5,
+            "mladiství Z": 0.05,
+            "uhrnem M": 1359.85,
+            "uhrnem Z": 111.3,
+            "celkem": 1471.15,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "dospeli M": 1364.8,
+            "dospele Z": 118.5,
+            "maldiství M": 17.9,
+            "mladiství Z": 1.9,
+            "uhrnem M": 1382.7,
+            "uhrnem Z": 120.4,
+            "celkem": 1503.1,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "dospeli M": 1348.46,
+            "dospele Z": 118.25,
+            "maldiství M": 17.32,
+            "mladiství Z": 2.0,
+            "uhrnem M": 1365.79,
+            "uhrnem Z": 120.25,
+            "celkem": 1486.04,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "dospeli M": 1449.71,
+            "dospele Z": 109.19,
+            "maldiství M": 14.62,
+            "mladiství Z": 1.29,
+            "uhrnem M": 1464.33,
+            "uhrnem Z": 110.48,
+            "celkem": 1574.81,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "dospeli M": 1425.75,
+            "dospele Z": 115.0,
+            "maldiství M": 17.2,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1442.95,
+            "uhrnem Z": 115.0,
+            "celkem": 1557.95,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "dospeli M": 1371.91,
+            "dospele Z": 113.17,
+            "maldiství M": 17.09,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1389.0,
+            "uhrnem Z": 113.17,
+            "celkem": 1502.17,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "dospeli M": 1276.0,
+            "dospele Z": 95.5,
+            "maldiství M": 15.22,
+            "mladiství Z": 0.78,
+            "uhrnem M": 1291.22,
+            "uhrnem Z": 96.28,
+            "celkem": 1387.5,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "dospeli M": 1203.68,
+            "dospele Z": 86.95,
+            "maldiství M": 18.41,
+            "mladiství Z": 0.64,
+            "uhrnem M": 1222.09,
+            "uhrnem Z": 87.59,
+            "celkem": 1309.68,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "dospeli M": 1188.18,
+            "dospele Z": 87.77,
+            "maldiství M": 19.32,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1207.5,
+            "uhrnem Z": 87.77,
+            "celkem": 1295.27,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "dospeli M": 1153.35,
+            "dospele Z": 88.75,
+            "maldiství M": 19.25,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1172.6,
+            "uhrnem Z": 88.75,
+            "celkem": 1261.35,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "dospeli M": 1157.23,
+            "dospele Z": 92.86,
+            "maldiství M": 18.0,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1175.23,
+            "uhrnem Z": 92.86,
+            "celkem": 1268.09,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "dospeli M": 1182.2,
+            "dospele Z": 94.05,
+            "maldiství M": 16.05,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1198.25,
+            "uhrnem Z": 94.05,
+            "celkem": 1292.3,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "dospeli M": 1203.75,
+            "dospele Z": 92.0,
+            "maldiství M": 16.75,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1220.5,
+            "uhrnem Z": 92.0,
+            "celkem": 1312.5,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "dospeli M": 1225.9,
+            "dospele Z": 97.95,
+            "maldiství M": 17.24,
+            "mladiství Z": 0.0,
+            "uhrnem M": 1243.14,
+            "uhrnem Z": 97.95,
+            "celkem": 1341.1,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "dospeli M": 1280.82,
+            "dospele Z": 100.23,
+            "maldiství M": 17.27,
+            "mladiství Z": 0.64,
+            "uhrnem M": 1298.09,
+            "uhrnem Z": 100.86,
+            "celkem": 1398.95,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "dospeli M": 1640.55,
+            "dospele Z": 134.32,
+            "maldiství M": 20.36,
+            "mladiství Z": 3.55,
+            "uhrnem M": 1660.91,
+            "uhrnem Z": 137.86,
+            "celkem": 1798.77,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "dospeli M": 1660.29,
+            "dospele Z": 139.29,
+            "maldiství M": 22.62,
+            "mladiství Z": 3.62,
+            "uhrnem M": 1682.9,
+            "uhrnem Z": 142.9,
+            "celkem": 1825.81,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "dospeli M": 1618.59,
+            "dospele Z": 138.59,
+            "maldiství M": 26.27,
+            "mladiství Z": 3.86,
+            "uhrnem M": 1644.86,
+            "uhrnem Z": 142.45,
+            "celkem": 1787.32,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "dospeli M": 1606.05,
+            "dospele Z": 136.6,
+            "maldiství M": 26.85,
+            "mladiství Z": 3.95,
+            "uhrnem M": 1632.9,
+            "uhrnem Z": 140.55,
+            "celkem": 1773.45,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "dospeli M": 1664.3,
+            "dospele Z": 132.25,
+            "maldiství M": 26.9,
+            "mladiství Z": 2.5,
+            "uhrnem M": 1691.2,
+            "uhrnem Z": 134.75,
+            "celkem": 1825.95,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "dospeli M": 1649.41,
+            "dospele Z": 127.86,
+            "maldiství M": 25.68,
+            "mladiství Z": 2.05,
+            "uhrnem M": 1675.09,
+            "uhrnem Z": 129.91,
+            "celkem": 1805.0,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "dospeli M": 1595.59,
+            "dospele Z": 121.64,
+            "maldiství M": 20.64,
+            "mladiství Z": 1.68,
+            "uhrnem M": 1616.23,
+            "uhrnem Z": 123.32,
+            "celkem": 1739.55,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "dospeli M": 1575.05,
+            "dospele Z": 111.57,
+            "maldiství M": 22.95,
+            "mladiství Z": 0.9,
+            "uhrnem M": 1598.0,
+            "uhrnem Z": 112.48,
+            "celkem": 1710.48,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "dospeli M": 1532.57,
+            "dospele Z": 102.1,
+            "maldiství M": 24.67,
+            "mladiství Z": 1.19,
+            "uhrnem M": 1557.24,
+            "uhrnem Z": 103.29,
+            "celkem": 1660.52,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "dospeli M": 1483.65,
+            "dospele Z": 100.25,
+            "maldiství M": 28.75,
+            "mladiství Z": 2.0,
+            "uhrnem M": 1512.4,
+            "uhrnem Z": 102.25,
+            "celkem": 1614.65,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "dospeli M": 1474.38,
+            "dospele Z": 106.33,
+            "maldiství M": 27.29,
+            "mladiství Z": 0.95,
+            "uhrnem M": 1501.67,
+            "uhrnem Z": 107.29,
+            "celkem": 1608.95,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "dospeli M": 1450.5,
+            "dospele Z": 101.09,
+            "maldiství M": 21.14,
+            "mladiství Z": 1.59,
+            "uhrnem M": 1471.64,
+            "uhrnem Z": 102.68,
+            "celkem": 1574.32,
+            "rok": 2020
+        }
+    ]
+}

@@ -1,0 +1,1963 @@
+{
+    "průměrný stav": [
+        {
+            "mesic": "leden",
+            "Brno M": 31,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 99,
+            "Úhrnem Ž": 11,
+            "Celkem": 110,
+            "rok": 2024
+        },
+        {
+            "mesic": "únor",
+            "Brno M": 31,
+            "Brno Ž": 11,
+            "Opava M": 46,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 98,
+            "Úhrnem Ž": 11,
+            "Celkem": 109,
+            "rok": 2024
+        },
+        {
+            "mesic": "březen",
+            "Brno M": 31,
+            "Brno Ž": 11,
+            "Opava M": 48,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 20,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 99,
+            "Úhrnem Ž": 11,
+            "Celkem": 110,
+            "rok": 2024
+        },
+        {
+            "mesic": "duben",
+            "Brno M": 31,
+            "Brno Ž": 11,
+            "Opava M": 48,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2024
+        },
+        {
+            "mesic": "květen",
+            "Brno M": 31,
+            "Brno Ž": 12,
+            "Opava M": 48,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 12,
+            "Celkem": 114,
+            "rok": 2024
+        },
+        {
+            "mesic": "červen",
+            "Brno M": 36,
+            "Brno Ž": 12,
+            "Opava M": 65,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2024
+        },
+        {
+            "mesic": "červenec",
+            "Brno M": 37,
+            "Brno Ž": 12,
+            "Opava M": 64,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2024
+        },
+        {
+            "mesic": "srpen",
+            "Brno M": 38,
+            "Brno Ž": 12,
+            "Opava M": 64,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 12,
+            "Celkem": 114,
+            "rok": 2024
+        },
+        {
+            "mesic": "září",
+            "Brno M": 41,
+            "Brno Ž": 12,
+            "Opava M": 63,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 104,
+            "Úhrnem Ž": 12,
+            "Celkem": 116,
+            "rok": 2024
+        },
+        {
+            "mesic": "říjen",
+            "Brno M": 41,
+            "Brno Ž": 12,
+            "Opava M": 61,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 12,
+            "Celkem": 114,
+            "rok": 2024
+        },
+        {
+            "mesic": "listopad",
+            "Brno M": 42,
+            "Brno Ž": 12,
+            "Opava M": 60,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 12,
+            "Celkem": 114,
+            "rok": 2024
+        },
+        {
+            "mesic": "prosinec",
+            "Brno M": 43,
+            "Brno Ž": 12,
+            "Opava M": 60,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 103,
+            "Úhrnem Ž": 12,
+            "Celkem": 115,
+            "rok": 2024
+        },
+        {
+            "mesic": "leden",
+            "Brno M": 31,
+            "Brno Ž": 12,
+            "Opava M": 50,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 12,
+            "Celkem": 114,
+            "rok": 2023
+        },
+        {
+            "mesic": "únor",
+            "Brno M": 30,
+            "Brno Ž": 12,
+            "Opava M": 50,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "březen",
+            "Brno M": 29,
+            "Brno Ž": 11,
+            "Opava M": 50,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "duben",
+            "Brno M": 30,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "květen",
+            "Brno M": 30,
+            "Brno Ž": 11,
+            "Opava M": 48,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 11,
+            "Celkem": 112,
+            "rok": 2023
+        },
+        {
+            "mesic": "červen",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 104,
+            "Úhrnem Ž": 11,
+            "Celkem": 115,
+            "rok": 2023
+        },
+        {
+            "mesic": "červenec",
+            "Brno M": 33,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 22,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "srpen",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "září",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2023
+        },
+        {
+            "mesic": "říjen",
+            "Brno M": 36,
+            "Brno Ž": 11,
+            "Opava M": 46,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 103,
+            "Úhrnem Ž": 11,
+            "Celkem": 114,
+            "rok": 2023
+        },
+        {
+            "mesic": "listopad",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 21,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 104,
+            "Úhrnem Ž": 11,
+            "Celkem": 115,
+            "rok": 2023
+        },
+        {
+            "mesic": "prosinec",
+            "Brno M": 33,
+            "Brno Ž": 11,
+            "Opava M": 47,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 23,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 103,
+            "Úhrnem Ž": 11,
+            "Celkem": 114,
+            "rok": 2023
+        },
+        {
+            "mesic": "leden",
+            "Brno M": 42,
+            "Brno Ž": 12,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 9,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 12,
+            "Celkem": 112,
+            "rok": 2022
+        },
+        {
+            "mesic": "únor",
+            "Brno M": 38,
+            "Brno Ž": 12,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 13,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 12,
+            "Celkem": 112,
+            "rok": 2022
+        },
+        {
+            "mesic": "březen",
+            "Brno M": 33,
+            "Brno Ž": 12,
+            "Opava M": 48,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 19,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 12,
+            "Celkem": 112,
+            "rok": 2022
+        },
+        {
+            "mesic": "duben",
+            "Brno M": 33,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 18,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 11,
+            "Celkem": 111,
+            "rok": 2022
+        },
+        {
+            "mesic": "květen",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 18,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 11,
+            "Celkem": 112,
+            "rok": 2022
+        },
+        {
+            "mesic": "červen",
+            "Brno M": 32,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 19,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 11,
+            "Celkem": 111,
+            "rok": 2022
+        },
+        {
+            "mesic": "červenec",
+            "Brno M": 32,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 19,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 11,
+            "Celkem": 111,
+            "rok": 2022
+        },
+        {
+            "mesic": "srpen",
+            "Brno M": 33,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 19,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 11,
+            "Celkem": 112,
+            "rok": 2022
+        },
+        {
+            "mesic": "září",
+            "Brno M": 32,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 22,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 103,
+            "Úhrnem Ž": 11,
+            "Celkem": 114,
+            "rok": 2022
+        },
+        {
+            "mesic": "říjen",
+            "Brno M": 34,
+            "Brno Ž": 11,
+            "Opava M": 46,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 22,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 102,
+            "Úhrnem Ž": 11,
+            "Celkem": 113,
+            "rok": 2022
+        },
+        {
+            "mesic": "listopad",
+            "Brno M": 32,
+            "Brno Ž": 11,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 22,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 103,
+            "Úhrnem Ž": 11,
+            "Celkem": 114,
+            "rok": 2022
+        },
+        {
+            "mesic": "prosinec",
+            "Brno M": 33,
+            "Brno Ž": 12,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 22,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 104,
+            "Úhrnem Ž": 12,
+            "Celkem": 116,
+            "rok": 2022
+        },
+        {
+            "mesic": "leden",
+            "Brno M": 42,
+            "Brno Ž": 11,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 97,
+            "Úhrnem Ž": 11,
+            "Celkem": 108,
+            "rok": 2021
+        },
+        {
+            "mesic": "únor",
+            "Brno M": 44,
+            "Brno Ž": 11,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 98,
+            "Úhrnem Ž": 11,
+            "Celkem": 109,
+            "rok": 2021
+        },
+        {
+            "mesic": "březen",
+            "Brno M": 46,
+            "Brno Ž": 11,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 99,
+            "Úhrnem Ž": 11,
+            "Celkem": 110,
+            "rok": 2021
+        },
+        {
+            "mesic": "duben",
+            "Brno M": 46,
+            "Brno Ž": 11,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 99,
+            "Úhrnem Ž": 11,
+            "Celkem": 110,
+            "rok": 2021
+        },
+        {
+            "mesic": "květen",
+            "Brno M": 44,
+            "Brno Ž": 11,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 98,
+            "Úhrnem Ž": 11,
+            "Celkem": 109,
+            "rok": 2021
+        },
+        {
+            "mesic": "červen",
+            "Brno M": 46,
+            "Brno Ž": 11,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 11,
+            "Celkem": 111,
+            "rok": 2021
+        },
+        {
+            "mesic": "červenec",
+            "Brno M": 46,
+            "Brno Ž": 12,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 98,
+            "Úhrnem Ž": 12,
+            "Celkem": 110,
+            "rok": 2021
+        },
+        {
+            "mesic": "srpen",
+            "Brno M": 46,
+            "Brno Ž": 12,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 12,
+            "Celkem": 112,
+            "rok": 2021
+        },
+        {
+            "mesic": "září",
+            "Brno M": 47,
+            "Brno Ž": 12,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 100,
+            "Úhrnem Ž": 12,
+            "Celkem": 112,
+            "rok": 2021
+        },
+        {
+            "mesic": "říjen",
+            "Brno M": 48,
+            "Brno Ž": 12,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2021
+        },
+        {
+            "mesic": "listopad",
+            "Brno M": 47,
+            "Brno Ž": 12,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2021
+        },
+        {
+            "mesic": "prosinec",
+            "Brno M": 47,
+            "Brno Ž": 12,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 101,
+            "Úhrnem Ž": 12,
+            "Celkem": 113,
+            "rok": 2021
+        },
+        {
+            "mesic": "leden",
+            "Brno M": 35,
+            "Brno Ž": 10,
+            "Opava M": 50,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 85,
+            "Úhrnem Ž": 10,
+            "Celkem": 95,
+            "rok": 2020
+        },
+        {
+            "mesic": "únor",
+            "Brno M": 36,
+            "Brno Ž": 10,
+            "Opava M": 49,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 85,
+            "Úhrnem Ž": 10,
+            "Celkem": 95,
+            "rok": 2020
+        },
+        {
+            "mesic": "březen",
+            "Brno M": 37,
+            "Brno Ž": 10,
+            "Opava M": 50,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 87,
+            "Úhrnem Ž": 10,
+            "Celkem": 97,
+            "rok": 2020
+        },
+        {
+            "mesic": "duben",
+            "Brno M": 35,
+            "Brno Ž": 10,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 89,
+            "Úhrnem Ž": 10,
+            "Celkem": 99,
+            "rok": 2020
+        },
+        {
+            "mesic": "květen",
+            "Brno M": 35,
+            "Brno Ž": 10,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 89,
+            "Úhrnem Ž": 10,
+            "Celkem": 99,
+            "rok": 2020
+        },
+        {
+            "mesic": "červen",
+            "Brno M": 37,
+            "Brno Ž": 10,
+            "Opava M": 53,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 90,
+            "Úhrnem Ž": 10,
+            "Celkem": 100,
+            "rok": 2020
+        },
+        {
+            "mesic": "červenec",
+            "Brno M": 37,
+            "Brno Ž": 10,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 89,
+            "Úhrnem Ž": 10,
+            "Celkem": 99,
+            "rok": 2020
+        },
+        {
+            "mesic": "srpen",
+            "Brno M": 38,
+            "Brno Ž": 10,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 0,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 90,
+            "Úhrnem Ž": 10,
+            "Celkem": 100,
+            "rok": 2020
+        },
+        {
+            "mesic": "září",
+            "Brno M": 36,
+            "Brno Ž": 9,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 89,
+            "Úhrnem Ž": 9,
+            "Celkem": 98,
+            "rok": 2020
+        },
+        {
+            "mesic": "říjen",
+            "Brno M": 37,
+            "Brno Ž": 9,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 90,
+            "Úhrnem Ž": 9,
+            "Celkem": 99,
+            "rok": 2020
+        },
+        {
+            "mesic": "listopad",
+            "Brno M": 37,
+            "Brno Ž": 10,
+            "Opava M": 52,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 90,
+            "Úhrnem Ž": 10,
+            "Celkem": 100,
+            "rok": 2020
+        },
+        {
+            "mesic": "prosinec",
+            "Brno M": 38,
+            "Brno Ž": 11,
+            "Opava M": 54,
+            "Opava Ž": 0,
+            "Praha Pankrác M": 1,
+            "Praha Pankrác Ž": 0,
+            "Úhrnem M": 93,
+            "Úhrnem Ž": 11,
+            "Celkem": 104,
+            "rok": 2020
+        }
+    ],
+    "věkové složení": [
+        {
+            "Věková kategorie": "23 - nedovršených 25 let",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 7.0,
+            "Žena": 2.0,
+            "Celkový součet": 9,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 26.0,
+            "Žena": 1.0,
+            "Celkový součet": 27,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 18.0,
+            "Žena": 3.0,
+            "Celkový součet": 21,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 19.0,
+            "Žena": 3.0,
+            "Celkový součet": 22,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 12.0,
+            "Žena": 0,
+            "Celkový součet": 12,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 8.0,
+            "Žena": 2.0,
+            "Celkový součet": 10,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 8.0,
+            "Žena": 1.0,
+            "Celkový součet": 9,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "rok": 2024
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 3.0,
+            "Žena": 2.0,
+            "Celkový součet": 5,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30let",
+            "Muž": 13.0,
+            "Žena": 0.0,
+            "Celkový součet": 13,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 21.0,
+            "Žena": 0.0,
+            "Celkový součet": 21,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 13.0,
+            "Žena": 4.0,
+            "Celkový součet": 17,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 17.0,
+            "Žena": 2.0,
+            "Celkový součet": 19,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 15.0,
+            "Žena": 0.0,
+            "Celkový součet": 15,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 9.0,
+            "Žena": 2.0,
+            "Celkový součet": 11,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 7.0,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 3.0,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 2.0,
+            "Žena": 0.0,
+            "Celkový součet": 2,
+            "rok": 2023
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 1.0,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 4.0,
+            "Žena": 2.0,
+            "Celkový součet": 6,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 12.0,
+            "Žena": 0.0,
+            "Celkový součet": 12,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 23.0,
+            "Žena": 1.0,
+            "Celkový součet": 24,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 12.0,
+            "Žena": 4.0,
+            "Celkový součet": 16,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 17.0,
+            "Žena": 1.0,
+            "Celkový součet": 18,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 12.0,
+            "Žena": 1.0,
+            "Celkový součet": 13,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 10.0,
+            "Žena": 3.0,
+            "Celkový součet": 13,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 8.0,
+            "Žena": 0.0,
+            "Celkový součet": 8,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 3.0,
+            "Žena": 0.0,
+            "Celkový součet": 3,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "65 - nedovršených 70 let",
+            "Muž": 2.0,
+            "Žena": 0.0,
+            "Celkový součet": 2,
+            "rok": 2022
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 1.0,
+            "Žena": 0.0,
+            "Celkový součet": 1,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 4.0,
+            "Žena": 2.0,
+            "Celkový součet": 6,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 12.0,
+            "Žena": 0.0,
+            "Celkový součet": 12,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 24.0,
+            "Žena": 2.0,
+            "Celkový součet": 26,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 16.0,
+            "Žena": 3.0,
+            "Celkový součet": 19,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 12.0,
+            "Žena": 2.0,
+            "Celkový součet": 14,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 11.0,
+            "Žena": 2.0,
+            "Celkový součet": 13,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "50 - nedovršených 55 let",
+            "Muž": 7.0,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 9.0,
+            "Žena": 0.0,
+            "Celkový součet": 9,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 5.0,
+            "Žena": 0.0,
+            "Celkový součet": 5,
+            "rok": 2021
+        },
+        {
+            "Věková kategorie": "21 - nedovršených 22 let",
+            "Muž": 0,
+            "Žena": 2.0,
+            "Celkový součet": 2,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "22 - nedovršených 25 let",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "25 - nedovršených 30 let",
+            "Muž": 15.0,
+            "Žena": 0,
+            "Celkový součet": 15,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "30 - nedovršených 35 let",
+            "Muž": 19.0,
+            "Žena": 2.0,
+            "Celkový součet": 21,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "35 - nedovršených 40 let",
+            "Muž": 14.0,
+            "Žena": 4.0,
+            "Celkový součet": 18,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "40 - nedovršených 45 let",
+            "Muž": 13.0,
+            "Žena": 1.0,
+            "Celkový součet": 14,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "45 - nedovršených 50 let",
+            "Muž": 7.0,
+            "Žena": 1.0,
+            "Celkový součet": 8,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "50- nedovršených 55 let",
+            "Muž": 9.0,
+            "Žena": 1.0,
+            "Celkový součet": 10,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "55 - nedovršených 60 let",
+            "Muž": 7.0,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "rok": 2020
+        },
+        {
+            "Věková kategorie": "60 - nedovršených 65 let",
+            "Muž": 6.0,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "rok": 2020
+        }
+    ],
+    "již trestaní": [
+        {
+            "Kolikrát ve VTOS": "0x",
+            "Muž": 49,
+            "Žena": 9.0,
+            "Celkový součet": 58,
+            "Celkem v %": 0.5043,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "1x",
+            "Muž": 24,
+            "Žena": 3.0,
+            "Celkový součet": 27,
+            "Celkem v %": 0.2348,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "2x",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.0696,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "3x",
+            "Muž": 9,
+            "Žena": 0,
+            "Celkový součet": 9,
+            "Celkem v %": 0.0783,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "4x",
+            "Muž": 6,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "Celkem v %": 0.0522,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "5x",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0348,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "7x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0174,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "11x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0087,
+            "rok": 2024
+        },
+        {
+            "Kolikrát ve VTOS": "0x",
+            "Muž": 47,
+            "Žena": 8.0,
+            "Celkový součet": 55,
+            "Celkem v %": 0.4825,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "1x",
+            "Muž": 27,
+            "Žena": 3.0,
+            "Celkový součet": 30,
+            "Celkem v %": 0.2632,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "2x",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.0614,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "3x",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.0702,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "4x",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0439,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "5x",
+            "Muž": 4,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0351,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "7x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0175,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "8x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "9x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "11x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Kolikrát ve VTOS": "0x",
+            "Muž": 48,
+            "Žena": 9.0,
+            "Celkový součet": 57,
+            "Celkem v %": 0.4914,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "1x",
+            "Muž": 25,
+            "Žena": 3.0,
+            "Celkový součet": 28,
+            "Celkem v %": 0.2414,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "2x",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.069,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "3x",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.069,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "4x",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0431,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "5x",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0431,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "7x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0172,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "8x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0086,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "11x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0172,
+            "rok": 2022
+        },
+        {
+            "Kolikrát ve VTOS": "0x",
+            "Muž": 48,
+            "Žena": 9.0,
+            "Celkový součet": 57,
+            "Celkem v %": 0.5044,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "1x",
+            "Muž": 23,
+            "Žena": 3.0,
+            "Celkový součet": 26,
+            "Celkem v %": 0.2301,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "2x",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.0619,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "3x",
+            "Muž": 8,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.0708,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "4x",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0442,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "5x",
+            "Muž": 5,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0442,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "6x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "7x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0177,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "8x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "11x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2021
+        },
+        {
+            "Kolikrát ve VTOS": "0x",
+            "Muž": 47,
+            "Žena": 8.0,
+            "Celkový součet": 55,
+            "Celkem v %": 0.5288,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "1x",
+            "Muž": 16,
+            "Žena": 3.0,
+            "Celkový součet": 19,
+            "Celkem v %": 0.1827,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "2x",
+            "Muž": 7,
+            "Žena": 0,
+            "Celkový součet": 7,
+            "Celkem v %": 0.0673,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "3x",
+            "Muž": 9,
+            "Žena": 0,
+            "Celkový součet": 9,
+            "Celkem v %": 0.0865,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "4x",
+            "Muž": 6,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "Celkem v %": 0.0577,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "5x",
+            "Muž": 3,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0288,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "6x",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0096,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "7x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0192,
+            "rok": 2020
+        },
+        {
+            "Kolikrát ve VTOS": "11x",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0192,
+            "rok": 2020
+        }
+    ],
+    "vzdělání": [
+        {
+            "Nejvyšší dosažené vzdělání": "nezjištěno (cizinec), neuvedeno",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0087,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 6.0,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "Celkem v %": 0.0522,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 5.0,
+            "Žena": 0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0435,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 4.0,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0348,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 42.0,
+            "Žena": 5.0,
+            "Celkový součet": 47,
+            "Celkem v %": 0.4087,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 38.0,
+            "Žena": 2.0,
+            "Celkový součet": 40,
+            "Celkem v %": 0.3478,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 2.0,
+            "Žena": 1.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0261,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 3.0,
+            "Žena": 1.0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0348,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 1.0,
+            "Žena": 1.0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0174,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 1.0,
+            "Žena": 1.0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0174,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - magisterské",
+            "Muž": 0,
+            "Žena": 1.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0087,
+            "rok": 2024
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nezjištěno (cizince), neuvedeno",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 8.0,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.0702,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0263,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 4.0,
+            "Žena": 0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0351,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 41.0,
+            "Žena": 5.0,
+            "Celkový součet": 46,
+            "Celkem v %": 0.4035,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 39.0,
+            "Žena": 2.0,
+            "Celkový součet": 41,
+            "Celkem v %": 0.3596,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 1.0,
+            "Žena": 1.0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0175,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 3.0,
+            "Žena": 1.0,
+            "Celkový součet": 4,
+            "Celkem v %": 0.0351,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 1.0,
+            "Žena": 1.0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0175,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - magisterské",
+            "Muž": 0,
+            "Žena": 1.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2023
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nezjištěno (cizinec), neuvedeno",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0086,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 8.0,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.069,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0172,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0259,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 44.0,
+            "Žena": 5.0,
+            "Celkový součet": 49,
+            "Celkem v %": 0.4224,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 36.0,
+            "Žena": 2.0,
+            "Celkový součet": 38,
+            "Celkem v %": 0.3276,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 1.0,
+            "Žena": 2.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0259,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 4.0,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0431,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0172,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 2.0,
+            "Žena": 1.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0259,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - magisterské",
+            "Muž": 0,
+            "Žena": 1.0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0086,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0086,
+            "rok": 2022
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 8.0,
+            "Žena": 0,
+            "Celkový součet": 8,
+            "Celkem v %": 0.0708,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0177,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0265,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 46.0,
+            "Žena": 5.0,
+            "Celkový součet": 51,
+            "Celkem v %": 0.4513,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 32.0,
+            "Žena": 3.0,
+            "Celkový součet": 35,
+            "Celkem v %": 0.3097,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 1.0,
+            "Žena": 2.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0265,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 4.0,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 0.0442,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 0.0177,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 2.0,
+            "Žena": 1.0,
+            "Celkový součet": 3,
+            "Celkem v %": 0.0265,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.0088,
+            "rok": 2021
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "neuvedeno",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.96,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "zvláštní škola",
+            "Muž": 6.0,
+            "Žena": 0,
+            "Celkový součet": 6,
+            "Celkem v %": 5.77,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "bez základního vzdělání",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 1.92,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "nedokončené základní",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 1.92,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "základní vzdělání",
+            "Muž": 41.0,
+            "Žena": 5.0,
+            "Celkový součet": 46,
+            "Celkem v %": 44.23,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení bez maturity",
+            "Muž": 30.0,
+            "Žena": 3.0,
+            "Celkový součet": 33,
+            "Celkem v %": 31.73,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vyučení s maturitou",
+            "Muž": 1.0,
+            "Žena": 2.0,
+            "Celkový součet": 3,
+            "Celkem v %": 2.88,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské všeobecné vzdělání s maturitou",
+            "Muž": 4.0,
+            "Žena": 1.0,
+            "Celkový součet": 5,
+            "Celkem v %": 4.81,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "středoškolské odborné vzdělání s maturitou",
+            "Muž": 3.0,
+            "Žena": 0,
+            "Celkový součet": 3,
+            "Celkem v %": 2.88,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - bakalářské",
+            "Muž": 2.0,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v %": 1.92,
+            "rok": 2020
+        },
+        {
+            "Nejvyšší dosažené vzdělání": "vysokoškolské vzdělání - inženýr",
+            "Muž": 1.0,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v %": 0.96,
+            "rok": 2020
+        }
+    ]
+}

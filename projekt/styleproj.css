@@ -1,0 +1,139 @@
+/* Zakladni promenne (pro snadne prepouziti v global.css) */
+:root {
+    --primary: #2563eb;
+    --bg-main: #f1f5f9;
+    --bg-card: #ffffff;
+    --text-dark: #0f172a;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --shadow-soft: 0 4px 15px rgba(0,0,0,0.05);
+    --shadow-hover: 0 15px 30px rgba(0,0,0,0.08);
+}
+
+/* Reset a zaklad */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    background: var(--bg-main);
+    color: var(--text-main);
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+/* Horni navigace */
+.top-nav {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000; 
+    background: rgba(255, 255, 255, 0.90);
+    backdrop-filter: blur(10px);
+    padding: 6px 8px;
+    border-radius: 40px;
+    box-shadow: var(--shadow-soft);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    width: max-content;
+    max-width: 95%;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 18px;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+}
+
+.top-nav a:hover { background: var(--bg-main); color: var(--text-main); }
+.top-nav a.active { background: var(--primary); color: #fff; box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3); }
+
+/* Hlavni obalka pro texty */
+.content-wrapper {
+    max-width: 900px;
+    margin: 120px auto 40px auto; 
+    padding: 40px;
+    background: var(--bg-card);
+    border-radius: 16px;
+    box-shadow: var(--shadow-soft);
+}
+
+.project-header { text-align: center; margin-bottom: 40px; border-bottom: 2px dashed var(--border); padding-bottom: 30px; }
+.project-header h1 { font-size: 36px; font-weight: 900; color: var(--text-dark); margin-bottom: 10px; letter-spacing: -1px; }
+.project-header p { font-size: 18px; color: var(--text-muted); }
+
+.project-summary h2, .outputs-section h2, .documents-section h2 { font-size: 24px; font-weight: 800; color: var(--text-dark); margin-bottom: 15px; }
+.project-summary p { font-size: 16px; line-height: 1.7; color: var(--text-muted); margin-bottom: 40px; }
+
+.documents-section { margin-bottom: 40px; padding-bottom: 30px; border-bottom: 2px solid var(--bg-main); }
+
+/* Mrizka a karty */
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+.documents-grid { grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); }
+
+.output-card {
+    background: var(--bg-main);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 25px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.doc-card { flex-direction: row; align-items: center; gap: 20px; background: var(--bg-card); border: 2px solid var(--border); }
+.doc-card .card-icon { margin-bottom: 0; flex-shrink: 0; }
+
+.output-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-hover);
+    border-color: var(--primary);
+    background: var(--bg-card);
+}
+
+.card-icon {
+    font-size: 32px; margin-bottom: 15px; background: #ebf4ff;
+    width: 60px; height: 60px; display: flex; align-items: center;
+    justify-content: center; border-radius: 12px;
+}
+
+.output-card h3 { font-size: 18px; font-weight: 700; color: var(--text-dark); margin-bottom: 8px; }
+.output-card p { font-size: 14px; line-height: 1.5; color: var(--text-muted); }
+
+/* Responzivita pro mobily */
+@media (max-width: 768px) {
+    .top-nav {
+        top: 10px; width: 95%; border-radius: 16px;
+        flex-wrap: nowrap; overflow-x: auto; padding: 10px;
+        -webkit-overflow-scrolling: touch; justify-content: flex-start;
+    }
+    .top-nav::-webkit-scrollbar { display: none; }
+    
+    .content-wrapper { margin: 80px 15px 30px 15px; padding: 20px; }
+    .project-header h1 { font-size: 26px; }
+    .project-header p { font-size: 15px; }
+    
+    .cards-grid, .documents-grid { grid-template-columns: 1fr; }
+    .doc-card { flex-direction: column; align-items: center; text-align: center; gap: 15px; }
+}

@@ -1,0 +1,380 @@
+{
+    "doživotí": [
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 41,
+            "Žena": 3.0,
+            "Celkový součet": 44,
+            "Celkem v%": 0.9167,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0417,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0208,
+            "rok": 2024
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 42,
+            "Žena": 3.0,
+            "Celkový součet": 45,
+            "Celkem v%": 0.9184,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0408,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0204,
+            "rok": 2023
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 40,
+            "Žena": 3.0,
+            "Celkový součet": 43,
+            "Celkem v%": 0.9149,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0426,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0213,
+            "rok": 2022
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 39,
+            "Žena": 3.0,
+            "Celkový součet": 42,
+            "Celkem v%": 0.913,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 0.0435,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 0.0217,
+            "rok": 2021
+        },
+        {
+            "Státní příslušnost": "Česká republika",
+            "Muž": 37,
+            "Žena": 3.0,
+            "Celkový součet": 40,
+            "Celkem v%": 90.91,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Čína",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 2.27,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Slovensko",
+            "Muž": 2,
+            "Žena": 0,
+            "Celkový součet": 2,
+            "Celkem v%": 4.55,
+            "rok": 2020
+        },
+        {
+            "Státní příslušnost": "Uzbekistán",
+            "Muž": 1,
+            "Žena": 0,
+            "Celkový součet": 1,
+            "Celkem v%": 2.27,
+            "rok": 2020
+        }
+    ],
+    "obvinění": [
+        {
+            "Obvinění": "muži",
+            "Česká republika": 1091,
+            "Cizí státní příslušnost": 407,
+            "Celkem": 1498,
+            "rok": 2024
+        },
+        {
+            "Obvinění": "ženy",
+            "Česká republika": 85,
+            "Cizí státní příslušnost": 13,
+            "Celkem": 98,
+            "rok": 2024
+        },
+        {
+            "Obvinění": "muži",
+            "Česká republika": 984,
+            "Cizí státní příslušnost": 456,
+            "Celkem": 1440,
+            "rok": 2023
+        },
+        {
+            "Obvinění": "ženy",
+            "Česká republika": 99,
+            "Cizí státní příslušnost": 27,
+            "Celkem": 126,
+            "rok": 2023
+        },
+        {
+            "Obvinění": "muži",
+            "Česká republika": 968,
+            "Cizí státní příslušnost": 355,
+            "Celkem": 1323,
+            "rok": 2022
+        },
+        {
+            "Obvinění": "ženy",
+            "Česká republika": 96,
+            "Cizí státní příslušnost": 19,
+            "Celkem": 115,
+            "rok": 2022
+        },
+        {
+            "Obvinění": "muži",
+            "Česká republika": 967,
+            "Cizí státní příslušnost": 329,
+            "Celkem": 1296,
+            "rok": 2021
+        },
+        {
+            "Obvinění": "ženy",
+            "Česká republika": 76,
+            "Cizí státní příslušnost": 20,
+            "Celkem": 96,
+            "rok": 2021
+        },
+        {
+            "Obvinění": "muži",
+            "Česká republika": 1141,
+            "Cizí státní příslušnost": 326,
+            "Celkem": 1467,
+            "rok": 2020
+        },
+        {
+            "Obvinění": "ženy",
+            "Česká republika": 85,
+            "Cizí státní příslušnost": 18,
+            "Celkem": 103,
+            "rok": 2020
+        }
+    ],
+    "odsouzení": [
+        {
+            "Odsouzení": "muži",
+            "Česká republika": 15065,
+            "Cizí státní příslušnost": 1103,
+            "Celkem": 16168,
+            "rok": 2024
+        },
+        {
+            "Odsouzení": "ženy",
+            "Česká republika": 1481,
+            "Cizí státní příslušnost": 70,
+            "Celkem": 1551,
+            "rok": 2024
+        },
+        {
+            "Odsouzení": "muži",
+            "Česká republika": 15217,
+            "Cizí státní příslušnost": 1094,
+            "Celkem": 16311,
+            "rok": 2023
+        },
+        {
+            "Odsouzení": "ženy",
+            "Česká republika": 1508,
+            "Cizí státní příslušnost": 70,
+            "Celkem": 1578,
+            "rok": 2023
+        },
+        {
+            "Odsouzení": "muži",
+            "Česká republika": 14986,
+            "Cizí státní příslušnost": 1026,
+            "Celkem": 16012,
+            "rok": 2022
+        },
+        {
+            "Odsouzení": "ženy",
+            "Česká republika": 1432,
+            "Cizí státní příslušnost": 54,
+            "Celkem": 1486,
+            "rok": 2022
+        },
+        {
+            "Odsouzení": "muži",
+            "Česká republika": 14842,
+            "Cizí státní příslušnost": 990,
+            "Celkem": 15832,
+            "rok": 2021
+        },
+        {
+            "Odsouzení": "ženy",
+            "Česká republika": 1358,
+            "Cizí státní příslušnost": 53,
+            "Celkem": 1411,
+            "rok": 2021
+        },
+        {
+            "Odsouzení": "muži",
+            "Česká republika": 15028,
+            "Cizí státní příslušnost": 1124,
+            "Celkem": 16152,
+            "rok": 2020
+        },
+        {
+            "Odsouzení": "ženy",
+            "Česká republika": 1397,
+            "Cizí státní příslušnost": 63,
+            "Celkem": 1460,
+            "rok": 2020
+        }
+    ],
+    "chovanci": [
+        {
+            "Chovanci": "muži",
+            "Česká republika": 99,
+            "Cizí státní příslušnost": 4,
+            "Celkem": 103,
+            "rok": 2024
+        },
+        {
+            "Chovanci": "ženy",
+            "Česká republika": 12,
+            "Cizí státní příslušnost": 0,
+            "Celkem": 12,
+            "rok": 2024
+        },
+        {
+            "Chovanci": "muži",
+            "Česká republika": 99,
+            "Cizí státní příslušnost": 4,
+            "Celkem": 103,
+            "rok": 2023
+        },
+        {
+            "Chovanci": "ženy",
+            "Česká republika": 11,
+            "Cizí státní příslušnost": 0,
+            "Celkem": 11,
+            "rok": 2023
+        },
+        {
+            "Chovanci": "muži",
+            "Česká republika": 99,
+            "Cizí státní příslušnost": 5,
+            "Celkem": 104,
+            "rok": 2022
+        },
+        {
+            "Chovanci": "ženy",
+            "Česká republika": 12,
+            "Cizí státní příslušnost": 0,
+            "Celkem": 12,
+            "rok": 2022
+        },
+        {
+            "Chovanci": "muži",
+            "Česká republika": 97,
+            "Cizí státní příslušnost": 4,
+            "Celkem": 101,
+            "rok": 2021
+        },
+        {
+            "Chovanci": "ženy",
+            "Česká republika": 12,
+            "Cizí státní příslušnost": 0,
+            "Celkem": 12,
+            "rok": 2021
+        },
+        {
+            "Chovanci": "muži",
+            "Česká republika": 90,
+            "Cizí státní příslušnost": 3,
+            "Celkem": 93,
+            "rok": 2020
+        },
+        {
+            "Chovanci": "ženy",
+            "Česká republika": 11,
+            "Cizí státní příslušnost": 0,
+            "Celkem": 11,
+            "rok": 2020
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "List1": [
+        {
+            "mesto": "Bělušice",
+            "OBJECTID": 10,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/belusice/fotogalerie/katalog/dsc-4404.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-belusice"
+        },
+        {
+            "mesto": "Brno",
+            "OBJECTID": 1,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/brno/fotogalerie/katalog/4.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-a-upvzd-brno"
+        },
+        {
+            "mesto": "Břeclav",
+            "OBJECTID": 11,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/breclav/fotogalerie/katalog/breclav-dron.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-breclav"
+        },
+        {
+            "mesto": "České Budějovice",
+            "OBJECTID": 2,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/ceske-budejovice/fotogalerie/katalog/c-budejovice01-letecke-foto.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-ceske-budejovice"
+        },
+        {
+            "mesto": "Heřmanice",
+            "OBJECTID": 12,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/hermanice/fotogalerie/katalog/4-1-letecky.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-hermanice"
+        },
+        {
+            "mesto": "Horní Slavkov",
+            "OBJECTID": 13,
+            "url_obrazek": "https://www.vs.gov.cz/media/sdilene-dokumenty/fotografie-veznic/horni-slavkov/3-satelitni-snimek-2023.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-horni-slavkov"
+        },
+        {
+            "mesto": "Hradec Králové",
+            "OBJECTID": 3,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/hradec-kralove/aktuality/migrace/vazveznice5-1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-hradec-kralove"
+        },
+        {
+            "mesto": "Jiřice",
+            "OBJECTID": 14,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/jirice/fotogalerie/katalog/jirice01.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-jirice"
+        },
+        {
+            "mesto": "Karviná",
+            "OBJECTID": 15,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/karvina/fotogalerie/katalog/karvina01-04.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-karvina"
+        },
+        {
+            "mesto": "Kuřim",
+            "OBJECTID": 16,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/kurim/fotogalerie/katalog/aktualni-od-2022/d2021-04-12t14-16-15-mux1-0000ts-snapshot-0645174.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-kurim"
+        },
+        {
+            "mesto": "Kynšperk nad Ohří",
+            "OBJECTID": 17,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/kynsperk-nad-ohri/fotogalerie/kynsperk-n-o-zima-2024-6.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-kynsperk-nad-ohri"
+        },
+        {
+            "mesto": "Liberec",
+            "OBJECTID": 4,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/liberec/fotogalerie/katalog/060329-f-152.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-liberec"
+        },
+        {
+            "mesto": "Litoměřice",
+            "OBJECTID": 5,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/litomerice/fotogalerie/vazebni-veznice-litomerice-foto/letecka-veznice-2020.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-litomerice"
+        },
+        {
+            "mesto": "Mírov",
+            "OBJECTID": 18,
+            "url_obrazek": "https://d34-a.sdn.cz/d_34/c_B_C/G9kC3z.jpeg?fl=res,2200,2200,1",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-mirov"
+        },
+        {
+            "mesto": "Nové Sedlo",
+            "OBJECTID": 19,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/nove-sedlo/fotogalerie/katalog/n-sedlo1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-nove-sedlo"
+        },
+        {
+            "mesto": "Odolov",
+            "OBJECTID": 20,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/odolov/fotogalerie/katalog/odolov02-let1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-odolov"
+        },
+        {
+            "mesto": "Olomouc",
+            "OBJECTID": 6,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/olomouc/fotogalerie/katalog/veznice-foto.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-olomouc"
+        },
+        {
+            "mesto": "Opava",
+            "OBJECTID": 21,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/opava/fotogalerie/katalog/letecky-snimek-objektu-veznice-na-olomoucke-ulici-zmensena.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-a-upvzd-opava"
+        },
+        {
+            "mesto": "Oráčov",
+            "OBJECTID": 22,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/oracov/fotogalerie/katalog/oracovx5.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-oracov"
+        },
+        {
+            "mesto": "Ostrava",
+            "OBJECTID": 7,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/ostrava/fotogalerie/katalog/ostrava-07-vy.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-ostrava"
+        },
+        {
+            "mesto": "Ostrov",
+            "OBJECTID": 23,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/ostrov/fotogalerie/katalog/ostrov01-letecky-snimek-veznice.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-ostrov"
+        },
+        {
+            "mesto": "Pardubice",
+            "OBJECTID": 24,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/pardubice/fotogalerie/katalog/pardubice-01.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-pardubice"
+        },
+        {
+            "mesto": "Plzeň",
+            "OBJECTID": 25,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/plzen/fotogalerie/katalog/23.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-plzen"
+        },
+        {
+            "mesto": "Praha Pankrác",
+            "OBJECTID": 8,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/praha-pankrac/fotogalerie/katalog/dji-0378.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-praha-pankrac"
+        },
+        {
+            "mesto": "Praha Ruzyně",
+            "OBJECTID": 9,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/praha-ruzyne/fotogalerie/katalog/img-2729.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-praha-ruzyne"
+        },
+        {
+            "mesto": "Příbram",
+            "OBJECTID": 26,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/pribram/fotogalerie/katalog/050215-pribram-02-1.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-pribram"
+        },
+        {
+            "mesto": "Rapotice",
+            "OBJECTID": 27,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/rapotice/fotogalerie/katalog/rapotice.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-rapotice"
+        },
+        {
+            "mesto": "Rýnovice",
+            "OBJECTID": 28,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/rynovice/fotogalerie/katalog/rynovice.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-rynovice"
+        },
+        {
+            "mesto": "Stráž pod Ralskem",
+            "OBJECTID": 29,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/straz-pod-ralskem/fotogalerie/katalog/straz-2.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-straz-pod-ralskem"
+        },
+        {
+            "mesto": "Světlá nad Sázavou",
+            "OBJECTID": 30,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/svetla-nad-sazavou/fotogalerie/katalog/1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-svetla-nad-sazavou"
+        },
+        {
+            "mesto": "Teplice",
+            "OBJECTID": 35,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/teplice/kontakty/katalog/04-teplice-letecky-1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/vazebni-veznice-teplice/sekce/zakladni-informace"
+        },
+        {
+            "mesto": "Valdice",
+            "OBJECTID": 31,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/valdice/fotogalerie/katalog/celkovy-pohled-img-1708.JPG",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-valdice"
+        },
+        {
+            "mesto": "Vinařice",
+            "OBJECTID": 32,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/vinarice/fotogalerie/katalog/vinarice-03-letecky.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-vinarice"
+        },
+        {
+            "mesto": "Všehrdy",
+            "OBJECTID": 33,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/vsehrdy/fotogalerie/katalog/vsehrdy-letecky-1.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-vsehrdy"
+        },
+        {
+            "mesto": "Znojmo",
+            "OBJECTID": 34,
+            "url_obrazek": "https://www.vs.gov.cz/media/organizacni-jednotky/znojmo/fotogalerie/katalog/znojmo-letecke-snimky-002.jpg",
+            "url_odkaz": "https://www.vs.gov.cz/organizacni-jednotky/veznice-znojmo"
+        }
+    ]
+}

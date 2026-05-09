@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa kriminality ČR</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="stylepcr.css">
+</head>
+
+<body class="sidebar-is-open">
+
+    <nav class="top-nav">
+        <a href="../veznice/veznice.html">Přehled věznic</a>
+        <a href="../soudy/soudy.html" class="active">Přehled soudů</a>
+        <a href="pcr.html">Mapa Kriminality</a>
+        <a href="../projekt/dip_web.pdf" target="_blank">Diplomová práce</a>
+        <a href="../projekt/broz_web.pdf" target="_blank">Brožura</a>
+        <a href="../projekt/projekt.html">O projektu</a>
+    </nav>
+
+    <div class="search-container">
+        <input type="text" id="mapSearchInput" placeholder="Hledat adresu nebo město (v ČR)..." autocomplete="off">
+        <button title="Hledat">🔍</button>
+        <div id="mapSearchResults" class="search-results"></div>
+    </div>
+
+    <div id="map"></div>
+    <div id="legend" class="map-overlay"></div>
+
+    <div id="sidebarLeft" class="sidebar-left-open"> 
+        <div class="sidebar-content">
+            
+            <div class="sidebar-header">
+                <h2>Nastavení mapy</h2>
+                <p>Filtrace kriminálních činů PČR</p>
+            </div>
+            
+            <div class="filter-section">
+                <label for="viewMode">Zobrazení mapy:</label>
+                <select id="viewMode" class="modern-select">
+                    <option value="markers">Detailní body (Shlukování)</option>
+                    <option value="heatmap">Teplotní mapa (Heatmapa)</option>
+                    <option value="relative">Relativní riziko (Obyvatelstvo)</option>
+                </select>
+            </div>
+            
+            <div class="filter-section">
+                <label>Vyberte období (Od – Do):</label>
+                <div class="date-group">
+                    <input type="date" id="dateFrom" class="modern-input" value="2025-01-01">
+                    <span>-</span>
+                    <input type="date" id="dateTo" class="modern-input" value="2025-01-31">
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <label>Kategorie trestných činů:</label>
+                <div id="typeFilter" class="checkbox-grid">
+                    <label class="checkbox-item"><input type="checkbox" value="Násilná" checked><span class="cb-color" style="background:#e74c3c;"></span> Násilná</label>
+                    <label class="checkbox-item"><input type="checkbox" value="Majetková" checked><span class="cb-color" style="background:#3498db;"></span> Majetková</label>
+                    <label class="checkbox-item"><input type="checkbox" value="Mravnostní" checked><span class="cb-color" style="background:#9b59b6;"></span> Mravnostní</label>
+                    <label class="checkbox-item"><input type="checkbox" value="Hospodářská" checked><span class="cb-color" style="background:#2ecc71;"></span> Hospodářská</label>
+                    <label class="checkbox-item"><input type="checkbox" value="Ostatní" checked><span class="cb-color" style="background:#f1c40f;"></span> Ostatní</label>
+                    <label class="checkbox-item"><input type="checkbox" value="Dopravní" checked><span class="cb-color" style="background:#e67e22;"></span> Dopravní</label>
+                </div>
+            </div>
+
+            <div id="loader" class="loader-box">
+                <div class="spinner"></div> <span>Načítám a zpracovávám data...</span>
+            </div>
+
+        </div>
+
+        <div class="sidebar-handle-left" id="handleLeft">FILTRY</div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+    <script src="https://unpkg.com/supercluster@8.0.1/dist/supercluster.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <script src="scriptpcr.js"></script>
+    
+    <script>
+        document.getElementById('handleLeft').addEventListener('click', function() {
+            const sidebar = document.getElementById('sidebarLeft');
+            sidebar.classList.toggle('sidebar-left-open');
+            sidebar.classList.toggle('sidebar-left-collapsed');
+            document.body.classList.toggle('sidebar-is-open');
+        });
+    </script>
+</body>
+</html>
